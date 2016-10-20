@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "title": "andreasdzialocha.com",
+    "url": "https://andreasdzialocha.com",
+    "description": "Electric bass player, composer and programmer, based in Berlin.",
+    "image": {
+      "src": "/assets/images/home.jpg",
+      "width": "2000",
+      "height": "2000",
+      "type": "image/jpeg"
+    },
+    "charset": "utf-8",
+    "favicon": "/assets/images/favicon.ico",
+    "styles": "/assets/styles/app.css",
+    "scripts": "/assets/scripts/app.js"
+  },
+  "gallery": [
+    {
+      "title": "An image title",
+      "src": "/assets/images/test.png"
+    }
+  ]
+}

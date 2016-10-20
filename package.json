@@ -1,0 +1,33 @@
+{
+  "name": "adzialocha.github.io",
+  "version": "0.0.1",
+  "description": "Homepage",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adzialocha/adzialocha.github.io.git"
+  },
+  "private": true,
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/adzialocha/adzialocha.github.io#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.17.0",
+    "babel-preset-es2015": "^6.16.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-util": "^3.0.7",
+    "marked": "^0.3.6",
+    "nunjucks": "^2.5.2",
+    "through2": "^2.0.1"
+  }
+}

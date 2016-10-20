@@ -1,0 +1,13 @@
+{
+  "title": "About",
+  "gallery": [
+    {
+      "title": "An image title",
+      "src": "/about/test.png"
+    },
+    {
+      "title": "Another image. Hej.",
+      "src": "/about/test2.png"
+    }
+  ]
+}
