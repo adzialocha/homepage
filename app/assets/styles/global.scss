@@ -1,4 +1,42 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  font-smoothing: antialiased;
+
+  -webkit-tap-highlight-color: rgba($black, 0);
+
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: rgba($black, 1);
+  color: $white;
+
+  text-shadow: none;
+}
+
 html,
 body {
-  background-color: $white;
+  height: 100%;
+
+  font-family: $font-family-regular;
+  font-weight: $font-weight-regular;
+  font-size: $font-size-regular;
+
+  line-height: 1.45;
+}
+
+a,
+a:focus,
+a:visited {
+  color: $black;
+
+  border-bottom: 1px solid $black;
+
+  text-decoration: none;
+
+  &:hover {
+    background-color: $black;
+  }
 }

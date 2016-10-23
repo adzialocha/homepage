@@ -16,12 +16,31 @@
   <link type="image/x-icon" href="{{ meta.favicon }}">
   <link type="image/x-icon" rel="icon" href="{{ meta.favicon }}">
   <link type="text/css" rel="stylesheet" href="{{ meta.styles }}">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700" rel="stylesheet">
   <script type="text/javascript" src="{{ meta.scripts }}"></script>
 </head>
 <body>
-{% include "header.html" %}
-{% include "navigation.html" %}
-{{ content | safe }}
-{% include "footer.html" %}
+  <div class="wrapper">
+    <div class="slider">
+      <div class="slider__left">
+        {% include "gallery.html" %}
+      </div>
+      <div class="slider__right">
+        <div class="content">
+          <div class="header">
+            {% if heading %}<h1 class="header__heading"><a href="/">{{ heading }}</a></h1>{% endif %}
+            {% if subheading %}<h2 class="header__subheading">{{ subheading }}</h2>{% endif %}
+            {% include "navigation.html" %}
+          </div>
+          <div class="article">
+            {{ content | safe }}
+          </div>
+          <div class="footer">
+            <p>&copy; {{ meta.year }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </body>
 </html>

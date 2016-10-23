@@ -1,0 +1,9 @@
+.content {
+  height: 100%;
+
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  padding-left: $slider-offset * -2;
+  padding-right: $slider-offset * -4;
+}

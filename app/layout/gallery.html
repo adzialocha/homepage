@@ -1,0 +1,7 @@
+<div class="gallery">
+  {% for item in gallery %}
+    <div class="gallery__item">
+      <div class="image image--full" data-src="{{ item.src }}" data-title="{{ item.title }}"></div>
+    </div>
+  {% endfor %}
+</div>

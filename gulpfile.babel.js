@@ -5,13 +5,17 @@ import path from 'path'
 import gulp from 'gulp'
 import connect from 'gulp-connect'
 import util from 'gulp-util'
-import babel from 'gulp-babel'
 import sass from 'gulp-sass'
 import autoprefixer from 'gulp-autoprefixer'
 import cleancss from 'gulp-clean-css'
 import uglify from 'gulp-uglifyjs'
 import htmlmin from 'gulp-htmlmin'
 import imagemin from 'gulp-imagemin'
+
+import browserify from 'browserify'
+import babelify from 'babelify'
+import source from 'vinyl-source-stream'
+import buffer from 'vinyl-buffer'
 
 import nunjucks from 'nunjucks'
 import through from 'through2'
@@ -121,10 +125,15 @@ gulp.task('styles', () => {
 })
 
 gulp.task('scripts', () => {
-  gulp.src(`${ASSETS_ROOT}/scripts/app.js`)
-    .pipe(babel({
-      presets: ['es2015'],
+  return browserify({
+      entries: [`${ASSETS_ROOT}/scripts/app.js`]
+    })
+    .transform(babelify.configure({
+      presets: ['es2015']
     }))
+    .bundle()
+    .pipe(source('app.js'))
+    .pipe(buffer())
     .pipe(util.env._.includes('watch') ? util.noop() : uglify({
       enclose: true,
     }))

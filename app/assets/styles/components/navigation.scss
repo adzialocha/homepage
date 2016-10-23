@@ -1,0 +1,30 @@
+.navigation {
+  max-width: 700px;
+
+  margin: $layout-spacing auto;
+
+  text-align: center;
+
+  line-height: 1.5;
+}
+
+.navigation__item {
+  display: inline-block;
+
+  margin-left: 12px;
+  margin-right: 12px;
+
+  font-size: $font-size-h6;
+
+  letter-spacing: 1px;
+
+  a {
+    border-bottom: 0;
+  }
+}
+
+.navigation__item--category {
+  font-weight: $font-weight-heavy;
+
+  text-transform: uppercase;
+}

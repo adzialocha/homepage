@@ -1,0 +1,32 @@
+.header {
+  margin-top: $layout-border-spacing;
+}
+
+.header__heading,
+.header__subheading {
+  margin: 0 auto;
+
+  max-width: 300px;
+
+  font-size: $font-size-h6;
+
+  text-align: center;
+  text-transform: uppercase;
+
+  letter-spacing: 1px;
+}
+
+.header__heading {
+  padding-bottom: $layout-spacing;
+
+  a {
+    border-bottom: 0;
+  }
+}
+
+.header__subheading {
+  padding-top: $layout-spacing;
+  padding-bottom: $layout-spacing;
+
+  font-weight: $font-weight-regular;
+}

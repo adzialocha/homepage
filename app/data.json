@@ -2,6 +2,7 @@
   "meta": {
     "title": "andreasdzialocha.com",
     "url": "https://andreasdzialocha.com",
+    "year": 2016,
     "description": "Electric bass player, composer and programmer, based in Berlin.",
     "image": {
       "src": "/assets/images/home.jpg",
@@ -14,10 +15,23 @@
     "styles": "/assets/styles/app.css",
     "scripts": "/assets/scripts/app.js"
   },
+  "heading": "Andreas Dzialocha",
+  "subheading": "Electric bass player, composer and programmer",
   "gallery": [
     {
-      "title": "An image title",
-      "src": "/assets/images/test.png"
+      "src": "http://adz-random.herokuapp.com?r=1"
+    },
+    {
+      "src": "http://adz-random.herokuapp.com?r=2"
+    },
+    {
+      "src": "http://adz-random.herokuapp.com?r=3"
+    },
+    {
+      "src": "http://adz-random.herokuapp.com?r=4"
+    },
+    {
+      "src": "http://adz-random.herokuapp.com?r=5"
     }
   ]
 }

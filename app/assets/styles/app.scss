@@ -1,2 +1,14 @@
 @import 'vars';
+@import 'reset';
 @import 'global';
+@import 'typography';
+@import 'layout';
+
+@import 'components/article';
+@import 'components/content';
+@import 'components/footer';
+@import 'components/gallery';
+@import 'components/header';
+@import 'components/image';
+@import 'components/navigation';
+@import 'components/slider';

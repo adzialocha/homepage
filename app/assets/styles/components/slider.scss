@@ -1,0 +1,25 @@
+.slider {
+  height: 100%;
+  width: 200%;
+
+  transform: translate3d($slider-offset, 0, 0);
+  transition: transform ease-in-out .6s;
+}
+
+.slider--switched {
+  transform: translate3d(-50% - $slider-offset, 0, 0);
+}
+
+.slider__left,
+.slider__right {
+  height: 100%;
+  width: 50%;
+}
+
+.slider__left {
+  float: left;
+}
+
+.slider__right {
+  float: right;
+}

@@ -1,0 +1,16 @@
+.image {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.image--full {
+  height: 100%;
+
+  background-repeat: repeat;
+}
+
+.image--loading {
+  background-repeat: no-repeat;
+  background-image: url("/assets/images/spinner.gif");
+  background-size: 24px;
+}

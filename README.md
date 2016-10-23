@@ -1,6 +1,6 @@
 # adzialocha.github.io
 
-It's the github home of [andreasdzialocha.com](https://andreasdzialocha.com), based on a custom simple static page generator backed by node, gulp, scss, es6 and markdown.
+It's the github home of [andreasdzialocha.com](https://andreasdzialocha.com), based on a custom simple static page generator backed by node, gulp, scss, es6, nunjucks and markdown.
 
 ## Development
 

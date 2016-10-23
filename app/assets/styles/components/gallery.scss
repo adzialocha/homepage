@@ -1,0 +1,19 @@
+.gallery {
+  height: 100%;
+
+  padding-left: $slider-offset * -2;
+
+  background-color: $black;
+
+  cursor: crosshair;
+}
+
+.gallery__item {
+  height: 100%;
+
+  display: none;
+}
+
+.gallery__item--visible {
+  display: block;
+}
