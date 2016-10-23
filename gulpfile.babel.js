@@ -11,6 +11,8 @@ import cleancss from 'gulp-clean-css'
 import uglify from 'gulp-uglifyjs'
 import htmlmin from 'gulp-htmlmin'
 import imagemin from 'gulp-imagemin'
+import eslint from 'gulp-eslint'
+import scsslint from 'gulp-sass-lint'
 
 import browserify from 'browserify'
 import babelify from 'babelify'
@@ -32,7 +34,7 @@ const DEFAULT_TASKS = [
 const SERVER_PORT = 4000
 
 const ROOT = './'
-const APP_ROOT = './app'
+const APP_ROOT = './_src'
 const ASSETS_DIST_ROOT = './assets'
 const ASSETS_ROOT = `${APP_ROOT}/assets`
 const VIEWS_ROOT = `${APP_ROOT}/views`
@@ -58,7 +60,7 @@ function generator(opts) {
     const options = Object.assign({}, {
       dataFile: 'data.json',
       layoutDefaultFile: './app/layout/default.html',
-      layoutFolder:  './app/layout',
+      layoutFolder: './app/layout',
       viewsFolder: './app/views',
       appFolder: './app',
       markdown: {
@@ -66,7 +68,7 @@ function generator(opts) {
       },
     }, opts)
 
-    const globalVars = JSON.parse(fs.readFileSync(`${options.appFolder}/${options.dataFile}`, 'utf8'));
+    const globalVars = JSON.parse(fs.readFileSync(`${options.appFolder}/${options.dataFile}`, 'utf8'))
 
     nunjucks.configure(options.layoutFolder, {
       noCache: true,
@@ -79,6 +81,11 @@ function generator(opts) {
       }
 
       fs.readFile(options.layoutDefaultFile, (err, data) => {
+        if (err) {
+          callback(new util.PluginError('generator', err, { fileName: file.path }))
+          return
+        }
+
         const pageFilePath = file.path.split('/')
         const pageName = pageFilePath[pageFilePath.length - 2]
 
@@ -125,9 +132,9 @@ gulp.task('styles', () => {
 })
 
 gulp.task('scripts', () => {
-  return browserify({
-      entries: [`${ASSETS_ROOT}/scripts/app.js`]
-    })
+  browserify({
+    entries: [`${ASSETS_ROOT}/scripts/app.js`]
+  })
     .transform(babelify.configure({
       presets: ['es2015']
     }))
@@ -160,6 +167,20 @@ gulp.task('generator', () => {
     .pipe(gulp.dest(ROOT))
 })
 
+gulp.task('js-linter', () => {
+  gulp.src(['./gulpfile.babel.js', `${ASSETS_ROOT}/scripts/**/*.js`])
+    .pipe(eslint())
+    .pipe(eslint.format())
+})
+
+gulp.task('scss-linter', () => {
+  gulp.src(`${ASSETS_ROOT}/styles/**/*.scss`)
+    .pipe(scsslint({
+      configFile: `${ROOT}.sass-lint.yml`,
+    }))
+    .pipe(scsslint.format())
+})
+
 // main
 
 gulp.task('serve', DEFAULT_TASKS, () => {
@@ -167,9 +188,14 @@ gulp.task('serve', DEFAULT_TASKS, () => {
     port: SERVER_PORT,
   })
 
-  gulp.watch([`${VIEWS_ROOT}/**/*.{md,json}`, `${LAYOUT_ROOT}/**/*.html`, `${APP_ROOT}/*.md`], ['generator'])
-  gulp.watch(`${ASSETS_ROOT}/styles/**/*.scss`, ['styles'])
-  gulp.watch(`${ASSETS_ROOT}/scripts/**/*.js`, ['scripts'])
+  gulp.watch([
+    `${VIEWS_ROOT}/**/*.{md,json}`,
+    `${LAYOUT_ROOT}/**/*.html`,
+    `${APP_ROOT}/*.md`,
+  ], ['generator'])
+
+  gulp.watch(`${ASSETS_ROOT}/styles/**/*.scss`, ['styles', 'scss-linter'])
+  gulp.watch(`${ASSETS_ROOT}/scripts/**/*.js`, ['scripts', 'js-linter'])
   gulp.watch(`${ASSETS_ROOT}/images/**/*.{png,jpg,gif,ico}`, ['images'])
 })
 

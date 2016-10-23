@@ -49,8 +49,8 @@ video {
 
   border: 0;
 
-  font-size: 100%;
   font: inherit;
+  font-size: 100%;
 
   vertical-align: baseline;
 }
@@ -73,7 +73,6 @@ blockquote {
   &:before,
   &:after {
     content: '';
-    content: none;
   }
 }
 
@@ -81,7 +80,6 @@ q {
   &:before,
   &:after {
     content: '';
-    content: none;
   }
 }
 

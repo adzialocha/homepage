@@ -4,8 +4,8 @@ const GALLERY_SELECTOR = '.gallery'
 const GALLERY_ITEMS_SELECTOR = '.gallery__item'
 const GALLERY_ITEM_VISIBLE_CLASS = 'gallery__item--visible'
 
-let galleryItemElems;
-let index;
+let galleryItemElems
+let index
 
 function nextImage() {
   index++

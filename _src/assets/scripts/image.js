@@ -13,8 +13,8 @@ export default function loadImages() {
   const imageElems = document.querySelectorAll(IMAGE_SELECTOR)
 
   for (let i = 0; i < imageElems.length; i++) {
-    const elem = imageElems[i];
-    const {src, title} = elem.dataset
+    const elem = imageElems[i]
+    const {src} = elem.dataset
 
     elem.classList.add(IMAGE_LOADING_CLASS)
 
