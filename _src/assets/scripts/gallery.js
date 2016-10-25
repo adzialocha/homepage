@@ -9,7 +9,6 @@ let index
 
 function nextImage() {
   index++
-
   if (index > galleryItemElems.length - 1) {
     index = 0
   }

@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "andreasdzialocha.com",
-    "url": "https://andreasdzialocha.com",
+    "url": "http://andreasdzialocha.com",
     "year": 2016,
     "description": "Electric bass player, composer and programmer, based in Berlin.",
     "image": {
-      "src": "/assets/images/home.jpg",
+      "src": "http://andreasdzialocha.com/assets/images/home.jpg",
       "width": "2000",
       "height": "2000",
       "type": "image/jpeg"

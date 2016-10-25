@@ -22,6 +22,7 @@ import buffer from 'vinyl-buffer'
 import nunjucks from 'nunjucks'
 import through from 'through2'
 import marked from 'marked'
+import slugify from 'slugify'
 
 const DEFAULT_TASKS = [
   'clean',
@@ -49,7 +50,47 @@ function getDirectories(target) {
   })
 }
 
-// custom page generator task
+// create new view task
+
+function createNew(opts) {
+  if (!util.env.t) {
+    console.log('Error: Please set a title with the -t option.')
+    return
+  }
+
+  const options = Object.assign({}, {
+    dataFile: 'data.json',
+    indexFile: 'index.md',
+  }, opts)
+
+  const title = util.env.t
+  const slug = slugify(title, '_').toLowerCase()
+  const folder = `${VIEWS_ROOT}/${slug}`
+
+  if (fs.existsSync(folder)) {
+    console.log('Error: View with that name already exists.')
+    return
+  }
+
+  fs.mkdirSync(folder)
+
+  const json = {
+    title,
+    slug,
+    heading: title,
+    subtitle: '',
+    gallery: [],
+  }
+
+  const markdown = `# ${title}\n\nYour Content`
+
+  fs.writeFileSync(`${folder}/${options.dataFile}`, JSON.stringify(json))
+  fs.writeFileSync(`${folder}/${options.indexFile}`, markdown)
+
+  console.log(`View "${slug}" with all files successfully created!`)
+}
+
+// dist page generator task
 
 function generator(opts) {
   return through.obj((file, encoding, callback) => {
@@ -182,6 +223,10 @@ gulp.task('scss-linter', () => {
 })
 
 // main
+
+gulp.task('new', () => {
+  createNew()
+})
 
 gulp.task('serve', DEFAULT_TASKS, () => {
   connect.server({
