@@ -180,7 +180,9 @@ gulp.task('styles', () => {
       errLogToConsole: true,
     }))
     .pipe(sass().on('error', sass.logError))
-    .pipe(autoprefixer())
+    .pipe(autoprefixer({
+      browsers: ['last 3 versions'],
+    }))
     .pipe(util.env._.includes('watch') ? util.noop() : cleancss())
     .pipe(gulp.dest(`${ASSETS_DIST_ROOT}/styles/`))
 })

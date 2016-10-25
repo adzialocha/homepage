@@ -70,7 +70,7 @@ rules:
   no-mergeable-selectors: 1
   no-misspelled-properties:
     - 1
-    - extra-properties: ['overflow-scroll']
+    - extra-properties: ['overflow-scrolling']
   no-qualifying-elements:
     - 1
     - allow-element-with-attribute: false
@@ -82,7 +82,7 @@ rules:
   no-vendor-prefixes:
     - 1
     - additional-identifiers: []
-      excluded-identifiers: []
+      excluded-identifiers: ['webkit']
   placeholder-in-extend: 1
   placeholder-name-format:
     - 1

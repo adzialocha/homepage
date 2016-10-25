@@ -7,5 +7,6 @@
   padding-right: $slider-offset * -4;
   padding-left: $slider-offset * -2;
 
-  overflow-scroll: touch;
+  overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch;
 }
