@@ -7,8 +7,8 @@ const SLIDER_SWITCHED_CLASS = 'slider--switched'
 
 const WRAPPER_SELECTOR = '.slider'
 
-const sliderElem = document.querySelector(SLIDER_SELECTOR)
-const wrapperElem = document.querySelector(WRAPPER_SELECTOR)
+let sliderElem
+let wrapperElem
 
 function showContent() {
   sliderElem.classList.add(SLIDER_SWITCHED_CLASS)
@@ -31,6 +31,9 @@ function registerEvents(selector, cb) {
 }
 
 export default function initializeSlider() {
+  sliderElem = document.querySelector(SLIDER_SELECTOR)
+  wrapperElem = document.querySelector(WRAPPER_SELECTOR)
+
   registerEvents(SLIDER_RIGHT_SELECTOR, showContent)
   registerEvents(SLIDER_LEFT_SELECTOR, showGallery)
 }
