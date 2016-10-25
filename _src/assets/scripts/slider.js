@@ -21,7 +21,8 @@ function showContent() {
   }, 500)
 }
 
-function showGallery() {
+function showGallery(event) {
+  event.stopPropagation()
   sliderElem.classList.remove(SLIDER_SWITCHED_CLASS)
 }
 
