@@ -42,3 +42,13 @@ img {
   max-width: 600px;
   height: auto;
 }
+
+hr {
+  width: 100%;
+  max-width: 250px;
+
+  margin: $layout-spacing * 2 auto;
+
+  border: 0;
+  border-bottom: 2px solid $black;
+}

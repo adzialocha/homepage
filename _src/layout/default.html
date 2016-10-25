@@ -30,7 +30,9 @@
           <div class="header">
             {% if heading %}<h1 class="header__heading"><a href="/">{{ heading }}</a></h1>{% endif %}
             {% if subheading %}<h2 class="header__subheading">{{ subheading }}</h2>{% endif %}
+            <hr>
             {% include "navigation.html" %}
+            <hr>
           </div>
           <div class="article">
             {{ content | safe }}
