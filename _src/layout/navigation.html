@@ -1,6 +1,9 @@
-<ul class="navigation">
-  <li class="navigation__item navigation__item--category">Kategorie</li>
-  <li class="navigation__item"><a href="/">Test</a></li>
-  <li class="navigation__item navigation__item--category">Test</li>
-  <li class="navigation__item"><a href="/test">Test</a></li>
-</ul>
+{% for category, sub in navigation %}
+  <ul class="navigation">
+  <li><strong>{{ category }}</strong></li>
+  {% for item in sub %}
+    <li{% if item.slug === slug %} class="active"{% endif %}><a href="/{{ item.slug }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+

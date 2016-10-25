@@ -3,22 +3,17 @@
 
   margin: $layout-spacing auto;
 
-  line-height: 1.5;
-
   text-align: center;
-}
 
-.navigation__item {
-  display: inline-block;
+  li {
+    display: inline-block;
 
-  margin-right: 12px;
-  margin-left: 12px;
+    margin-right: 25px;
 
-  letter-spacing: 1px;
-}
+    letter-spacing: 1px;
+  }
 
-.navigation__item--category {
-  font-weight: $font-weight-heavy;
-
-  text-transform: uppercase;
+  strong {
+    text-transform: uppercase;
+  }
 }

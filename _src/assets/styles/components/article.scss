@@ -4,4 +4,18 @@
   a {
     border-bottom: 1px solid $black;
   }
+
+  .image {
+    &.image--loading {
+      max-width: 600px;
+      height: 250px;
+
+      background-color: $black;
+    }
+  }
+
+  p + .image,
+  .image + p {
+    padding-top: $layout-spacing;
+  }
 }

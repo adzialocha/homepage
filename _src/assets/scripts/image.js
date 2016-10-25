@@ -5,7 +5,9 @@ const IMAGE_LOADING_CLASS = 'image--loading'
 
 function preload(src, ready) {
   const img = new Image()
-  img.onload = ready
+  img.onload = () => {
+    ready(img)
+  }
   img.src = src
 }
 
@@ -14,12 +16,17 @@ export default function loadImages() {
 
   for (let i = 0; i < imageElems.length; i++) {
     const elem = imageElems[i]
-    const {src} = elem.dataset
+    const {src, createImg} = elem.dataset
 
     elem.classList.add(IMAGE_LOADING_CLASS)
 
-    preload(src, () => {
-      elem.style.backgroundImage = `url(${src})`
+    preload(src, (imgElem) => {
+      if (createImg) {
+        elem.appendChild(imgElem)
+      } else {
+        elem.style.backgroundImage = `url(${src})`
+      }
+
       elem.classList.remove(IMAGE_LOADING_CLASS)
     })
   }

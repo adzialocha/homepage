@@ -4,17 +4,91 @@
     "title": "andreasdzialocha.com",
     "url": "http://andreasdzialocha.com",
     "year": 2016,
-    "description": "Electric bass player, composer and programmer, based in Berlin.",
+    "description": "Electric bass player, composer and programmer, based in Berlin and Stockholm.",
     "image": {
-      "src": "http://andreasdzialocha.com/assets/images/home.jpg",
-      "width": "2000",
-      "height": "2000",
+      "src": "http://andreasdzialocha.com/assets/images/bg.jpg",
+      "width": "1200",
+      "height": "1200",
       "type": "image/jpeg"
     },
     "charset": "utf-8",
     "favicon": "/assets/images/favicon.ico",
     "styles": "/assets/styles/app.css",
     "scripts": "/assets/scripts/app.js"
+  },
+  "navigation": {
+    "Electric bass": [
+      {
+        "title": "Solo",
+        "slug": "solo"
+      },
+      {
+        "title": "Serenus Zeitblom Oktett",
+        "slug": "serenuszeitblom"
+      },
+      {
+        "title": "NOR",
+        "slug": "nor"
+      }
+    ],
+    "Projects": [
+      {
+        "title": "Hyperdelia",
+        "slug": "hyperdelia"
+      },
+      {
+        "title": "BLATT 3000",
+        "slug": "blatt3000"
+      },
+      {
+        "title": "VERANTWORTUNG 3000",
+        "slug": "verantwortung3000"
+      },
+      {
+        "title": "Politics of self-curation",
+        "slug": "selfcuration"
+      },
+      {
+        "title": "Animatograph",
+        "slug": "animatograph"
+      },
+      {
+        "title": "SpontanFilmFestival",
+        "slug": "spontanfilmfestival"
+      }
+    ],
+    "Code": [
+      {
+        "title": "Kubismus",
+        "slug": "kubismus"
+      },
+      {
+        "title": "8bit",
+        "slug": "8bit"
+      },
+      {
+        "title": "osc-js",
+        "slug": "oscjs"
+      }
+    ],
+    "Data": [
+      {
+        "title": "Biography",
+        "slug": "biography"
+      },
+      {
+        "title": "Discography",
+        "slug": "discography"
+      },
+      {
+        "title": "Dates",
+        "slug": "dates"
+      },
+      {
+        "title": "Contact",
+        "slug": "contact"
+      }
+    ]
   },
   "heading": "Andreas Dzialocha",
   "subheading": "Electric bass player, composer and programmer",

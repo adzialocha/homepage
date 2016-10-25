@@ -11,6 +11,7 @@ import cleancss from 'gulp-clean-css'
 import uglify from 'gulp-uglifyjs'
 import htmlmin from 'gulp-htmlmin'
 import imagemin from 'gulp-imagemin'
+import resize from 'gulp-image-resize'
 import eslint from 'gulp-eslint'
 import scsslint from 'gulp-sass-lint'
 
@@ -42,12 +43,23 @@ const VIEWS_ROOT = `${APP_ROOT}/views`
 const LAYOUT_ROOT = `${APP_ROOT}/layout`
 const LAYOUT_DEFAULT_PATH = `${LAYOUT_ROOT}/default.html`
 
+const IMAGE_MAX_WIDTH = 900
+const IMAGE_QUALITY = 0.8
+
 // utils
 
 function getDirectories(target) {
   return fs.readdirSync(target).filter((file) => {
     return fs.statSync(path.join(target, file)).isDirectory()
   })
+}
+
+// custom markdown image renderer
+
+const renderer = new marked.Renderer()
+
+renderer.image = (href, title, text) => {
+  return `<div class="image" data-title="${title || text}" data-src="${href}" data-create-img="true"></div>`
 }
 
 // create new view task
@@ -105,6 +117,7 @@ function generator(opts) {
       viewsFolder: './app/views',
       appFolder: './app',
       markdown: {
+        renderer,
         breaks: true,
       },
     }, opts)
@@ -188,11 +201,22 @@ gulp.task('scripts', () => {
     .pipe(gulp.dest(`${ASSETS_DIST_ROOT}/scripts/`))
 })
 
-gulp.task('images', () =>
+gulp.task('images', () => {
   gulp.src(`${ASSETS_ROOT}/images/**/*.{png,jpg,gif,ico}`)
     .pipe(imagemin())
     .pipe(gulp.dest(`${ASSETS_DIST_ROOT}/images/`))
-)
+
+  gulp.src(`${VIEWS_ROOT}/**/*.{png,jpg,gif}`)
+    .pipe(resize({
+      imageMagick: true,
+      width: IMAGE_MAX_WIDTH,
+      crop: false,
+      upscale: false,
+      quality: IMAGE_QUALITY,
+    }))
+    .pipe(imagemin())
+    .pipe(gulp.dest(ROOT))
+})
 
 gulp.task('generator', () => {
   gulp.src([`${VIEWS_ROOT}/**/*.md`, `${APP_ROOT}/index.md`])
