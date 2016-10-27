@@ -1,4 +1,14 @@
 .article {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    padding-top: $layout-spacing;
+    padding-bottom: $layout-spacing;
+  }
+
   a {
     border-bottom: 1px solid $black;
   }

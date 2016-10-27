@@ -1,3 +1,5 @@
-# osc-js
+OSC protocol interface with address pattern matching for javascript applications - based on WebSocket API.
 
-Your Content
+### Sourcecode
+
+https://github.com/adzialocha/osc-js

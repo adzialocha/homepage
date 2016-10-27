@@ -1,6 +1,23 @@
 {
-  "title": "Politics of self-curation",
+  "title": "Love and Verantworting - The politics of self-curation",
   "slug": "selfcuration",
-  "heading": "Politics of self-curation",
-  "subtitle": ""
+  "heading": "Love & Verantwortung",
+  "subheading": "A lecture about the politics of self-curation",
+  "gallery": [
+    {
+      "src": "selfcuration-1.jpg"
+    },
+    {
+      "src": "selfcuration-2.jpg"
+    },
+    {
+      "src": "selfcuration-3.png"
+    },
+    {
+      "src": "selfcuration-4.jpg"
+    },
+    {
+      "src": "selfcuration-5.jpg"
+    }
+  ]
 }

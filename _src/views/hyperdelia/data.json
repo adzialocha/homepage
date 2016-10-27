@@ -2,5 +2,10 @@
   "title": "Hyperdelia",
   "slug": "hyperdelia",
   "heading": "Hyperdelia",
-  "subtitle": ""
+  "subheading": "Music label based in Berlin",
+  "gallery": [
+    {
+      "src": "hyperdelia.png"
+    }
+  ]
 }

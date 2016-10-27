@@ -25,10 +25,6 @@
       {
         "title": "Serenus Zeitblom Oktett",
         "slug": "serenuszeitblom"
-      },
-      {
-        "title": "NOR",
-        "slug": "nor"
       }
     ],
     "Projects": [
@@ -49,12 +45,22 @@
         "slug": "selfcuration"
       },
       {
+        "title": "SpontanFilmFestival",
+        "slug": "spontanfilmfestival"
+      }
+    ],
+    "Compositions": [
+      {
+        "title": "NOR",
+        "slug": "nor"
+      },
+      {
         "title": "Animatograph",
         "slug": "animatograph"
       },
       {
-        "title": "SpontanFilmFestival",
-        "slug": "spontanfilmfestival"
+        "title": "Segmente A",
+        "slug": "segmente"
       }
     ],
     "Code": [

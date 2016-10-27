@@ -2,5 +2,19 @@
   "title": "NOR",
   "slug": "nor",
   "heading": "NOR",
-  "subtitle": ""
+  "subheading": "Environment for improvisation in an artificial acoustic space",
+  "gallery": [
+    {
+      "src": "nor-1.jpg"
+    },
+    {
+      "src": "nor-2.jpg"
+    },
+    {
+      "src": "nor-3.jpg"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/adzialocha/NOR/master/NOR.gif"
+    }
+  ]
 }

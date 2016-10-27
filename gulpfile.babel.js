@@ -44,7 +44,7 @@ const LAYOUT_ROOT = `${APP_ROOT}/layout`
 const LAYOUT_DEFAULT_PATH = `${LAYOUT_ROOT}/default.html`
 
 const IMAGE_MAX_WIDTH = 900
-const IMAGE_QUALITY = 0.8
+const IMAGE_QUALITY = 0.95
 
 // utils
 
@@ -60,6 +60,14 @@ const renderer = new marked.Renderer()
 
 renderer.image = (href, title, text) => {
   return `<div class="image" data-title="${title || text}" data-src="${href}" data-create-img="true"></div>`
+}
+
+renderer.link = (href, title, text) => {
+  if (title) {
+    return `<a href="${href}" title="${title}" target="_blank">${text}</a>`
+  } else {
+    return `<a href="${href}" target="_blank">${text}</a>`
+  }
 }
 
 // create new view task
@@ -90,7 +98,7 @@ function createNew(opts) {
     title,
     slug,
     heading: title,
-    subtitle: '',
+    subheading: '',
     gallery: [],
   }
 
