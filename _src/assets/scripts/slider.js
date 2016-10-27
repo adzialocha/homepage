@@ -22,7 +22,10 @@ function showContent() {
 }
 
 function showGallery(event) {
-  event.stopPropagation()
+  if (sliderElem.classList.contains(SLIDER_SWITCHED_CLASS)) {
+    event.preventDefault()
+  }
+
   sliderElem.classList.remove(SLIDER_SWITCHED_CLASS)
 }
 

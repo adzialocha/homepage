@@ -3,17 +3,23 @@
     border-bottom: 1px solid $black;
   }
 
-  .image {
-    &.image--loading {
-      max-width: 600px;
-      height: 250px;
+  .image--loading {
+    max-width: 600px;
+    height: 400px;
 
-      background-color: $black;
-    }
+    background-color: $black;
   }
 
   p + .image,
   .image + p {
-    padding-top: $layout-spacing;
+    margin-top: $layout-spacing;
+  }
+}
+
+@media (max-width: $mobile-breakpoint) {
+  .article {
+    .image--loading {
+      height: 150px;
+    }
   }
 }

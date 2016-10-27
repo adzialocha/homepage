@@ -8,12 +8,23 @@
   li {
     display: inline-block;
 
-    margin-right: 25px;
+    margin-right: 12px;
+    margin-left: 12px;
 
     letter-spacing: 1px;
   }
 
   strong {
     text-transform: uppercase;
+  }
+}
+
+@media (max-width: $mobile-breakpoint) {
+  .navigation {
+    li {
+      display: block;
+
+      margin-bottom: 5px;
+    }
   }
 }

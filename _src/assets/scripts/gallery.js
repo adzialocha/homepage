@@ -24,8 +24,8 @@ export default function initializeGallery() {
   galleryItemElems = document.querySelectorAll(GALLERY_ITEMS_SELECTOR)
   index = -1
 
-  document.querySelector(GALLERY_SELECTOR).addEventListener('click', ($event) => {
-    $event.preventDefault()
+  document.querySelector(GALLERY_SELECTOR).addEventListener('click', (event) => {
+    event.preventDefault()
     nextImage()
   })
 
