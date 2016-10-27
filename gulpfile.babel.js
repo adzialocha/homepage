@@ -216,7 +216,7 @@ gulp.task('images', () => {
     .pipe(imagemin())
     .pipe(gulp.dest(`${ASSETS_DIST_ROOT}/images/`))
 
-  gulp.src(`${VIEWS_ROOT}/**/*.{png,jpg,gif}`)
+  gulp.src(`${VIEWS_ROOT}/**/*.{png,jpg}`)
     .pipe(resize({
       imageMagick: true,
       width: IMAGE_MAX_WIDTH,
@@ -224,6 +224,10 @@ gulp.task('images', () => {
       upscale: false,
       quality: IMAGE_QUALITY,
     }))
+    .pipe(imagemin())
+    .pipe(gulp.dest(ROOT))
+
+  gulp.src(`${VIEWS_ROOT}/**/*.gif`)
     .pipe(imagemin())
     .pipe(gulp.dest(ROOT))
 })

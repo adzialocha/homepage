@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "andreasdzialocha.com",
     "url": "http://andreasdzialocha.com",
     "year": 2016,
-    "description": "Electric bass player, composer and programmer, based in Berlin and Stockholm.",
+    "description": "Electric bass player, composer and programmer, based in Berlin.",
     "image": {
       "src": "http://andreasdzialocha.com/assets/images/bg.jpg",
       "width": "1200",
@@ -20,11 +20,11 @@
     "Electric bass": [
       {
         "title": "Solo",
-        "slug": "solos"
+        "slug": "solo-bass"
       },
       {
         "title": "Serenus Zeitblom Oktett",
-        "slug": "serenuszeitblom"
+        "slug": "serenus-zeitblom-oktett"
       }
     ],
     "Projects": [
@@ -74,7 +74,7 @@
       },
       {
         "title": "osc-js",
-        "slug": "oscjs"
+        "slug": "osc-js"
       }
     ],
     "Data": [
