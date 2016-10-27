@@ -18,3 +18,13 @@
   background-repeat: no-repeat;
   background-size: 24px;
 }
+
+@media (max-width: $mobile-breakpoint) {
+  .image {
+    background-size: contain;
+  }
+
+  .image--loading {
+    background-size: 24px;
+  }
+}
