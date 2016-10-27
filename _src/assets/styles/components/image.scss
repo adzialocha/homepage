@@ -13,12 +13,6 @@
   background-repeat: repeat;
 }
 
-.image--loading {
-  background-image: url('/assets/images/spinner.gif');
-  background-repeat: no-repeat;
-  background-size: 24px;
-}
-
 @media (max-width: 1280px) {
   .image {
     background-size: $mobile-breakpoint;
@@ -29,9 +23,10 @@
   .image {
     background-size: contain;
   }
-
-  .image--loading {
-    background-size: 24px;
-  }
 }
 
+.image--loading {
+  background-image: url('/assets/images/spinner.gif');
+  background-repeat: no-repeat;
+  background-size: 24px;
+}
