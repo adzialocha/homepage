@@ -2,5 +2,28 @@
   "title": "Segmente A",
   "slug": "segmente",
   "heading": "Segmente A",
-  "subheading": ""
+  "subheading": "Interactive composition for virtual space and 32 instruments",
+  "gallery": [
+    {
+      "src": "segmente-1.jpg"
+    },
+    {
+      "src": "segmente-2.jpg"
+    },
+    {
+      "src": "segmente-3.jpg"
+    },
+    {
+      "src": "segmente-4.jpg"
+    },
+    {
+      "src": "segmente-5.jpg"
+    },
+    {
+      "src": "segmente-6.jpg"
+    },
+    {
+      "src": "segmente-7.jpg"
+    }
+  ]
 }

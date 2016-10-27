@@ -1,8 +1,8 @@
 ### Serenus Zeitblom Oktett
 
-Named after a character from the novel *Doktor Faustus* by Thomas Mann, the Serenus Zeitblom Octet works with compositions between chaos and structure, the fragmented and united, free improvisation and classical score. Music as a subconscious, *demonical territo,ry* - as the Faustus-Novel states.
+Named after a character from the novel *Doktor Faustus* by Thomas Mann, the Serenus Zeitblom Octet works with compositions between chaos and structure, the fragmented and united, free improvisation and classical score. Music as a subconscious, *demonical territory* - as the Faustus-Novel states.
 
-The Serenus Zeitblom Oktett from Berlin consists of musicians with a broad pop, free jazz and contemporary music background. Aiming for an artificial but organic live sound-production aesthetic, the Oktett is accompanied by a ninth member, the Klanggestalter. Every instrument is being amplified and processed by filters and live algorithms, neutralizing the difference of acoustic and electric instruments. The musicians worked with Matthew Herbert, Phil Minton, The Villagers, Stargaze, Johann Johannsson and many more.
+The Serenus Zeitblom Oktett from Berlin consists of musicians with a broad pop, free jazz and contemporary music background. Aiming for an artificial but organic live sound-production aesthetic, the Oktett is accompanied by a ninth member, the Klanggestalter. Every instrument is being amplified and processed by filters and live algorithms, neutralizing the difference of acoustic and electric instruments.
 
 So far the Oktett comissioned new pieces by islandic composer *Gunnar Karel Masson* (S.L.Á.T.U.R.), *Marta Forsberg* and *Ingrid Laubrock* (Anthony Braxton, Kenny Wheeler, Jason Moran, Tim Berne) presented in 2015 on A L’ARME Festival in Radialsystem, Berlin.
 
@@ -53,7 +53,7 @@ Serenus Zeitblom Oktett
 
 Recording: 23.02. - 25.02.2015 Vox-Ton Studio, Berlin
 
-A release (total 38:01) is scheduled for late 2016 on Hyperdelia (12”, Berlin, HEX001) coming along with a remix by swedish artist Klara Lewis (Editions Mego) and full-length video by Roman Hagenbrock.
+A release is scheduled for late 2016 on Hyperdelia (12”, Berlin, HEX001) coming along with a remix by swedish artist Klara Lewis (Editions Mego) and full-length video by Roman Hagenbrock.
 
 Hyperdelia Records: http://hyperdelia.com/
 Soundcloud Preview: https://soundcloud.com/andreasdzialocha/szo-debut-preview

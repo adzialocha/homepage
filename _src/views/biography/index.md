@@ -1,3 +1,1 @@
-# Biography
-
-Your Content
+Andreas Dzialocha (DE) is an electric bass player, programmer and composer, founder of the Serenus Zeitblom Oktett. Studies of art history, musicology, media theory and computer science. Writes environments with and without computers for instrumentalists, theater and sound installations. Performs in various ensembles between free improvised music, chamber music and pop. Young artist award 2012, nominated by the Moers Festival. Lives and works in Berlin.
