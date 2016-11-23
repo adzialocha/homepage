@@ -27,11 +27,19 @@ Annegret Mayer-Lindenberg, DE (viola d'amore)
 
 ### NOR #3
 
+Recording @ Miss Hecker, Berlin DE - 20.11.16
+
+Sam Andreae, UK (feedback circuits)
+Andreas Dzialocha, DE (electric bass)
+
+### NOR #4
+
 Recording @ Klangkeller, Berlin DE - 02.12.16
 
 Stellan Veloce, IT (violoncello)
-Julia Reidy, AU (electric guitar)
-+ more artists tba.
+Julia Reidy, AU (12-string guitar)
+Klaas Hübner, DE (electromagnetic fields)
+Jethro Cooke, UK (electric guitar)
 
 ### Sourcecode
 

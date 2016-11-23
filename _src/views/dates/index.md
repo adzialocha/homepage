@@ -1,8 +1,11 @@
 Concert @ Klangkeller, Berlin DE - 02.12.16
 *w. Sam Andreae (computer, ts), Andreas Dzialocha (computer, eb)*
 
-NOR #3 @ Klangkeller, Berlin DE - 02.12.16
-*w. Julia Reidy (egit), Stellan Veloce (vc) and more tba*
+NOR #4 @ Klangkeller, Berlin DE - 02.12.16
+*w. Julia Reidy (12-string guitar), Stellan Veloce (vc), Klaas Hübner (electromagnetic fields), Jethro Cooke (electric guitar)*
+
+NOR #3 @ Miss Hecker, Berlin DE - 20.11.16
+*w. Sam Andreae (feedback circuits), Andreas Dzialocha (eb)*
 
 Serenus Zeitblom Oktett - Premiere: To all frequencies I can not sense @ St. Elisabeth, Berlin DE - 27.09.16
 *w. Marta Forsberg (composition), Els Vandeweyer (vib), David Meier (dr), Moritz Bossmann (egit), Karsten Lipp (egit), Tabea Schrenk (vc), Isabelle Klemt (vc), Richard Koch (tr), Andreas Dzialocha (eb), Matthias Erb (Klanggestaltung)* http://www.elisabeth.berlin/
