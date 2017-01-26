@@ -1,3 +1,9 @@
+Serenus Zeitblom Oktett - Hyperdelia Debut LP release @ Roter Salon, Berlin DE - 29.03.17
+*w. Els Vandeweyer (vib), David Meier (dr), Moritz Bossmann (egit), Karsten Lipp (egit), Shasta Ellenbogen (va), Isabelle Klemt (vc), Richard Koch (tr), Andreas Dzialocha (eb, composition), Matthias Erb (Klanggestaltung)* https://www.volksbuehne-berlin.de
+
+Solo @ Cluster #3 Labor neunzehn, Berlin DE - 12.02.17
+*CTM Vorspiel* http://www.laborneunzehn.org/
+
 Concert @ Klangkeller, Berlin DE - 02.12.16
 *w. Sam Andreae (computer, ts), Andreas Dzialocha (computer, eb)*
 
