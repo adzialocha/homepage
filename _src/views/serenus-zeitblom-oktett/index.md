@@ -26,6 +26,9 @@ Guests: Ingrid Laubrock US (ts), Tom Arthurs UK (tr), Tabea Schrenk DE (vc), Jon
 
 ### Concerts
 
+Hyperdelia Debut LP release @ Roter Salon, Volksbühne, Berlin DE - 27.03.17
+w. Els Vandeweyer (vib), David Meier (dr), Moritz Bossmann (egit), Karsten Lipp (egit), Shasta Ellenbogen (va), Isabelle Klemt (vc), Richard Koch (tr), Andreas Dzialocha (eb, composition), Matthias Erb (Klanggestaltung) https://www.volksbuehne-berlin.de
+
 Premiere: To all frequencies I can not sense @ St. Elisabeth, Berlin DE - 27.09.16
 w. Marta Forsberg SE (composition), Tabea Schrenk DE (vc)
 *Supported by Initiative Neue Musik INM e.V., Berlin*
@@ -53,9 +56,11 @@ Serenus Zeitblom Oktett
 
 Recording: 23.02. - 25.02.2015 Vox-Ton Studio, Berlin
 
-A release is scheduled for late 2016 on Hyperdelia (12”, Berlin, HEX001) coming along with a remix by swedish artist Klara Lewis (Editions Mego) and full-length video by Roman Hagenbrock.
+A release is scheduled for late 2016 on Hyperdelia (12”, Berlin, HEX001) coming along with a full-length video by Roman Hagenbrock.
 
-Hyperdelia Records: http://hyperdelia.com/
+Hyperdelia Store: https://hyperdelia.com/
+Bandcamp Store: https://hyperdelia.bandcamp.com/
+
 Soundcloud Preview: https://soundcloud.com/andreasdzialocha/szo-debut-preview
 YouTube Preview: https://www.youtube.com/watch?v=iimxcnutCGI
 
@@ -65,4 +70,3 @@ Mix Fuzz & Fairy Dust: Martyn Heyne (Lichte Studio, Berlin)
 Mixing: Matthias Erb, Andreas Dzialocha
 Mastering: Francesco Donadello (Calyx Mastering, Berlin)
 Video: Roman Hagenbrock
-Remix: Klara Lewis (Editions Mego)

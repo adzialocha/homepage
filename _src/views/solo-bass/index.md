@@ -41,6 +41,9 @@ http://thequietus.com/articles/18760-spools-out-tape-reviews-september-2015
 
 ### Concerts
 
+Solo @ Cluster #3 Labor neunzehn, CTM Vorspiel, Berlin DE - 12.02.17
+w. Adam Goodwin http://www.laborneunzehn.org/
+
 Solo @ St. Elisabeth, Berlin DE - 27.09.2016
 w. Serenus Zeitblom Oktett, Kaj Duncan David http://www.elisabeth.berlin/
 

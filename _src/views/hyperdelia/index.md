@@ -1,3 +1,3 @@
-Hyperdelia is a music label based in Berlin founded 2016 by Malte Kobel and Andreas Dzialocha.
+Hyperdelia is a record label founded in Berlin 2016 by Malte Kobel and Andreas Dzialocha.. Hyperdelia is interested in the studio production and aesthetics of recorded music. The label name is borrowed from Kodwo Eshun. In his book ›More Brilliant Than The Sun‹ he speaks of hyperdelia as an intensified sonic sensation that comes into being by maximizing the possibilities of sonic space. Without any one genre set in mind Hyperdelia experiments with studio production, virtuality and recorded music.
 
-Official website: http://hyperdelia.com/
+Official website: https://hyperdelia.com/

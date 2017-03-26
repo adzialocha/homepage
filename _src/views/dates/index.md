@@ -1,8 +1,11 @@
-Serenus Zeitblom Oktett - Hyperdelia Debut LP release @ Roter Salon, Berlin DE - 29.03.17
+Serenus Zeitblom Oktett - Hyperdelia Debut LP release @ Roter Salon, Volksbühne, Berlin DE - 27.03.17
 *w. Els Vandeweyer (vib), David Meier (dr), Moritz Bossmann (egit), Karsten Lipp (egit), Shasta Ellenbogen (va), Isabelle Klemt (vc), Richard Koch (tr), Andreas Dzialocha (eb, composition), Matthias Erb (Klanggestaltung)* https://www.volksbuehne-berlin.de
 
-Solo @ Cluster #3 Labor neunzehn, Berlin DE - 12.02.17
-*CTM Vorspiel* http://www.laborneunzehn.org/
+Solo @ Cluster #3 Labor neunzehn, CTM Vorspiel, Berlin DE - 12.02.17
+*w. Adam Goodwin* http://www.laborneunzehn.org/
+
+Lecture about computer networks and web platform in music @ UdK, Berlin DE - 04.12.16
+*Proseminar Studium Generale w. Miriam Akkermann*
 
 Concert @ Klangkeller, Berlin DE - 02.12.16
 *w. Sam Andreae (computer, ts), Andreas Dzialocha (computer, eb)*
@@ -20,7 +23,7 @@ Serenus Zeitblom Oktett - Echo @ Ai Confini tra Sardegna e Jazz 2016, Sardinia I
 *w. Ingrid Laubrock (ts, composition), Els Vandeweyer (vib), David Meier (dr), Moritz Bossmann (egit), Karsten Lipp (egit), Shasta Ellenbogen (va), Isabelle Klemt (vc), Richard Koch (tr), Andreas Dzialocha (eb), Matthias Erb (Klanggestaltung)* http://santannarresijazz.it/
 
 NOR #2 @ VERANTWORTUNG 3000, Prädikow DE - 03.09.16
-*w. Sam Andreae (melodicas), David Meier (percussion), Neele Hülcker (asmr), Annegret Mayer-Lindberg (viola d'amore)*
+*w. Sam Andreae (melodicas), David Meier (percussion), Neo Hülcker (asmr), Annegret Mayer-Lindberg (viola d'amore)*
 
 VERANTWORTUNG 3000 @ Prädikow, Brandenburg DE - 30.08.-04.09.16
 *self curated festival by BLATT 3000* http://www.verantwortung3000.de/

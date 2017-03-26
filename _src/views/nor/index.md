@@ -22,7 +22,7 @@ Recording @ VERANTWORTUNG 3000, Prädikow DE - 03.09.16
 
 David Meier, CH (percussion)
 Sam Andreae, UK (melodicas)
-Neele Hülcker, DE (asmr)
+Neo Hülcker, DE (asmr)
 Annegret Mayer-Lindenberg, DE (viola d'amore)
 
 ### NOR #3
@@ -40,6 +40,17 @@ Stellan Veloce, IT (violoncello)
 Julia Reidy, AU (12-string guitar)
 Klaas Hübner, DE (electromagnetic fields)
 Jethro Cooke, UK (electric guitar)
+
+### NOR #5
+
+Recording @ Gudhjem, Bornholm DK - 24.02.17
+
+Julia Reidy, AU (synthesizer)
+Marta Forsberg, SWE (violin)
+Suze Whaites, UK (glockenspiel)
+Laurence Tompkins, UK (voice)
+Malte Kobel, DE (noisy toy piano)
+Mio Ebisu, JP (acoustic guitar)
 
 ### Sourcecode
 
