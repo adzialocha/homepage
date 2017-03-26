@@ -6,7 +6,7 @@ The Serenus Zeitblom Oktett from Berlin consists of musicians with a broad pop, 
 
 So far the Oktett comissioned new pieces by islandic composer *Gunnar Karel Masson* (S.L.Á.T.U.R.), *Marta Forsberg* and *Ingrid Laubrock* (Anthony Braxton, Kenny Wheeler, Jason Moran, Tim Berne) presented in 2015 on A L’ARME Festival in Radialsystem, Berlin.
 
-Official website: http://serenuszeitblom.de
+Official website: https://serenuszeitblom.de
 
 ### Ensemble
 

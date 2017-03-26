@@ -2,4 +2,4 @@ The SpontanFilmFestival is a film-festival which invites young people to create 
 
 Also the music - as the movies - is composed and recorded within these 24 hours. Many great musicians and artists participated in the last years: Simon Rummel (2009), Holger Dix (2010), Max Schweder (2011), Achim Tang, Ingrid Laubrock, Tom Rainey (2012), Michael Schiefel (2013), ...
 
-Official website: http://spontanfilmfestival.de/
+Official website: https://spontanfilmfestival.de/
