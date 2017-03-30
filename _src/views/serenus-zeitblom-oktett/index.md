@@ -54,9 +54,12 @@ w. Andreas Dzialocha DE (composition)
 Serenus Zeitblom Oktett
 *Erster Teil - Zweiter Teil - Dritter Teil*
 
+HEX 001 (Hyperdelia, Berlin)
+Released 27.03.2017
+
 Recording: 23.02. - 25.02.2015 Vox-Ton Studio, Berlin
 
-A release is scheduled for late 2016 on Hyperdelia (12”, Berlin, HEX001) coming along with a full-length video by Roman Hagenbrock.
+The LP comes along with a full-length video by Roman Hagenbrock.
 
 Hyperdelia Store: https://hyperdelia.com/
 Bandcamp Store: https://hyperdelia.bandcamp.com/
