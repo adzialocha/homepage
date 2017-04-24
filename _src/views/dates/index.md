@@ -1,8 +1,8 @@
 HOFFNUNG 3000 - Klangkeller, Berlin DE - 24.-26.08.17
-*self curated festival by BLATT 3000*
+*self curated festival by BLATT 3000* https://hoffnung3000.de
 
 Wut von Elfriede Jelinek - Eine psychogeographische Konzert-Performance @ Dresdner Musikfestspiele, Frauenkirche, Dresden DE - 17.06.17
-*w. Dresdner Sinfoniker, Staatsschauspiel Dresden, Christian von Borries (Musikalische Leitung / Regie), Andreas Dzialocha (AI Programmierung der Orchesterpartitur), Anne-Alma Quastenberg (Ausstattung), Michael Gööck (Licht), Beate Heine, Paula Oevermann (Dramaturgie)*
+*w. Dresdner Sinfoniker, Staatsschauspiel Dresden, Christian von Borries (Musikalische Leitung / Regie), Andreas Dzialocha (AI Programmierung der Orchesterpartitur), Anne-Alma Quastenberg (Ausstattung), Michael Gööck (Licht), Beate Heine, Paula Oevermann (Dramaturgie)* http://www.staatsschauspiel-dresden.de/spielplan/premieren_urauffuehrungen/wut_konzert_performance
 
 Serenus Zeitblom Oktett - Hyperdelia Debut LP release @ Roter Salon, Volksbühne, Berlin DE - 27.03.17
 *w. Els Vandeweyer (vib), David Meier (dr), Moritz Bossmann (egit), Karsten Lipp (egit), Shasta Ellenbogen (va), Isabelle Klemt (vc), Richard Koch (tr), Andreas Dzialocha (eb, composition), Matthias Erb (Klanggestaltung)* https://www.volksbuehne-berlin.de
