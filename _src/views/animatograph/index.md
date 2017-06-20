@@ -1,1 +1,0 @@
-The *Animatograph* is a work-in-progress composition for 6 speakers, Kubismus-Software, Max/MSP and violoncello. 20 miniature filter-compositions rotate slowly around the audience, which sits in the middle of the speaker setup.

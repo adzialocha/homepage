@@ -1,8 +1,17 @@
-HOFFNUNG 3000 - Klangkeller, Berlin DE - 24.-26.08.17
-*self curated festival by BLATT 3000* https://hoffnung3000.de
+Premiere @ Mayhem, Sonic Festival, Copenhagen DK - 09.09.17
+*w. Kopenhagen Laptop Orchestra* http://www.sonic-festival.net/
+
+HOFFNUNG 3000 @ Klangkeller and everywhere, Berlin DE - 24.-26.08.17
+*self-curated, decentralized festival platform by BLATT 3000* https://hoffnung3000.de/
+
+Y-E-S release party - tba, Berlin DE - 24.07.17
+*w. Neo Hülcker, Stellan Veloce, Martin Hiendl, Kaj Duncan David* https://y-e-s.org/
+
+Solo @ ROTOR 2, Berlin DE - 28.06.17
+*w. Marta Forsberg, Martin Hiendl, Tim Novikov*
 
 Wut von Elfriede Jelinek - Eine psychogeographische Konzert-Performance @ Dresdner Musikfestspiele, Frauenkirche, Dresden DE - 17.06.17
-*w. Dresdner Sinfoniker, Staatsschauspiel Dresden, Christian von Borries (Musikalische Leitung / Regie), Andreas Dzialocha (AI Programmierung der Orchesterpartitur), Anne-Alma Quastenberg (Ausstattung), Michael Gööck (Licht), Beate Heine, Paula Oevermann (Dramaturgie)* http://www.staatsschauspiel-dresden.de/spielplan/premieren_urauffuehrungen/wut_konzert_performance
+*w. Dresdner Sinfoniker, Dresdner Bürgerchor, Staatsschauspiel Dresden - Christian von Borries (Musikalische Leitung / Regie), Andreas Dzialocha (AI Programmierung der Orchesterpartitur), Anne-Alma Quastenberg (Ausstattung), Michael Gööck (Licht), Beate Heine, Paula Oevermann (Dramaturgie)* http://www.staatsschauspiel-dresden.de/spielplan/archiv/w/wut_jelinek_wagner_und_jesus_von_nazareth/
 
 Serenus Zeitblom Oktett - Hyperdelia Debut LP release @ Roter Salon, Volksbühne, Berlin DE - 27.03.17
 *w. Els Vandeweyer (vib), David Meier (dr), Moritz Bossmann (egit), Karsten Lipp (egit), Shasta Ellenbogen (va), Isabelle Klemt (vc), Richard Koch (tr), Andreas Dzialocha (eb, composition), Matthias Erb (Klanggestaltung)* https://www.volksbuehne-berlin.de
