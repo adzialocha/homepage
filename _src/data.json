@@ -17,16 +17,6 @@
     "scripts": "/assets/scripts/app.js"
   },
   "navigation": {
-    "Electric bass": [
-      {
-        "title": "Solo",
-        "slug": "solo-bass"
-      },
-      {
-        "title": "Serenus Zeitblom Oktett",
-        "slug": "serenus-zeitblom-oktett"
-      }
-    ],
     "Projects": [
       {
         "title": "Hyperdelia",
@@ -53,6 +43,16 @@
         "slug": "spontanfilmfestival"
       }
     ],
+    "Electric bass": [
+      {
+        "title": "Solo",
+        "slug": "solo-bass"
+      },
+      {
+        "title": "Serenus Zeitblom Oktett",
+        "slug": "serenus-zeitblom-oktett"
+      }
+    ],
     "Compositions": [
       {
         "title": "NOR",
@@ -64,6 +64,10 @@
       }
     ],
     "Code": [
+      {
+        "title": "Wut",
+        "slug": "wut"
+      },
       {
         "title": "Kubismus",
         "slug": "kubismus"
