@@ -1,8 +1,17 @@
 {
   "name": "adzialocha.github.io",
-  "version": "0.1.0",
-  "description": "It's the github home of andreasdzialocha.com, based on a custom simple static page generator backed by node, gulp, scss, es6, nunjucks and markdown.",
+  "version": "2.0.0",
+  "description": "Static page for andreasdzialocha.com",
   "main": "index.html",
+  "scripts": {
+    "build": "static-generator build",
+    "clear": "static-generator clear",
+    "new": "static-generator new",
+    "serve": "serve",
+    "start": "npm run serve",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "watch 'npm run build' _src"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adzialocha/adzialocha.github.io.git"
@@ -11,30 +20,7 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/adzialocha/adzialocha.github.io#readme",
   "devDependencies": {
-    "babel-core": "^6.25.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-register": "^6.24.1",
-    "babelify": "^7.3.0",
-    "browserify": "^14.4.0",
-    "del": "^3.0.0",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^4.0.0",
-    "gulp-clean-css": "^3.4.2",
-    "gulp-concat": "^2.6.1",
-    "gulp-connect": "^5.0.0",
-    "gulp-eslint": "^4.0.0",
-    "gulp-htmlmin": "^3.0.0",
-    "gulp-image-resize": "^0.12.0",
-    "gulp-imagemin": "^3.3.0",
-    "gulp-sass": "^3.1.0",
-    "gulp-sass-lint": "^1.3.2",
-    "gulp-uglifyjs": "^0.6.2",
-    "gulp-util": "^3.0.8",
-    "marked": "^0.3.6",
-    "nunjucks": "^3.0.1",
-    "slugify": "^1.1.0",
-    "through2": "^2.0.3",
-    "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0"
+    "serve": "^6.3.1",
+    "watch": "^1.0.2"
   }
 }
