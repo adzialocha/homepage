@@ -1,6 +1,6 @@
 # adzialocha.github.io
 
-It's the github home of [andreasdzialocha.com](http://andreasdzialocha.com), based on a custom simple static page generator named [static-generator](https://github.com/adzialocha/static-generator).
+This is the github home of [andreasdzialocha.com](https://andreasdzialocha.com), build with a simple static page generator named [static-generator](https://github.com/adzialocha/static-generator).
 
 ## Development
 
