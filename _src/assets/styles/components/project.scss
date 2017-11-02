@@ -8,14 +8,6 @@ $_project-image-height: 240px;
 
   vertical-align: top;
 
-  &:hover {
-    background-color: $black;
-
-    .project__image {
-      visibility: hidden;
-    }
-  }
-
   &.filter-inactive {
     display: none;
   }
