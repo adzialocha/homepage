@@ -1,11 +1,15 @@
-'use strict'
+import Filter from './filter'
 
-import initializeSlider from './slider'
-import initializeGallery from './gallery'
-import loadImages from './image'
+const filterElems = document.querySelectorAll('[data-filter]')
+
+function init() {
+  if (filterElems.length > 0) {
+    new Filter({
+      elems: filterElems,
+    })
+  }
+}
 
 document.addEventListener('DOMContentLoaded', () => {
-  initializeSlider()
-  initializeGallery()
-  loadImages()
+  init()
 })

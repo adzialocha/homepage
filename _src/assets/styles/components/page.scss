@@ -1,0 +1,23 @@
+.page {
+  padding: $page-margin;
+
+  h1 {
+    margin-bottom: $page-margin;
+  }
+
+  p + p {
+    margin-top: $page-margin;
+  }
+
+  a {
+    border-bottom: 2px solid $blue;
+
+    color: $blue;
+
+    &:hover {
+      border-color: $green;
+
+      color: $green;
+    }
+  }
+}
