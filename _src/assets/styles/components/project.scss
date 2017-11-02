@@ -1,19 +1,10 @@
 $_project-width: $page-min-width;
 $_project-image-height: 240px;
 
-@mixin project-size($name, $size) {
-  .project--size-#{$name} {
-    width: $_project-width * $size;
-
-    .project__image {
-      width: $_project-width * $size;
-      height: $_project-image-height;
-    }
-  }
-}
-
 .project {
   display: inline-block;
+
+  width: $_project-width;
 
   vertical-align: top;
 
@@ -30,16 +21,20 @@ $_project-image-height: 240px;
   }
 }
 
-@include project-size('large', 1)
-@include project-size('medium', .9)
-@include project-size('small', .8)
-
 .project__image {
+  width: $_project-width;
+  height: $_project-image-height;
+
   background-color: $black;
+
+  object-fit: cover;
 }
 
 .project__title {
+  min-height: 105px;
+
   padding: $page-margin;
+  padding-bottom: 0;
 }
 
 .project__description {

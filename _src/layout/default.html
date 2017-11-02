@@ -29,7 +29,7 @@
         </li>
         {% if not title %}
           {% for item in navigation %}
-            <li class="navigation__item navigation__item--{{ item.type }}" data-filter="{{ item.category }}" data-filter-category>
+            <li class="navigation__item navigation__item--{{ item.type }}"{% if item.type == 'category' %}data-filter="{{ item.category }}" data-filter-category{% endif %}>
               {% if item.type == 'category' %}
                 <a class="navigation__item-link" href="#">
                   {{ item.title }}
@@ -53,8 +53,8 @@
       {% else %}
         {% for item in projects | sort(true, false, 'date') %}
           {% call macros.link(item.link) %}
-            <div class="project project--size-{{ ['large', 'medium', 'small'] | random }}" data-filter="{{ item.category }}">
-              <div class="project__image" data-image-src="{{ item.imageUrl }}"></div>
+            <div class="project" data-filter="{{ item.category }}">
+              <img class="project__image" src="{{ item.image }}"></img>
               <h3 class="project__title">{{ item.title }}</h3>
               <div class="project__description">
                 {{ item.description }}
