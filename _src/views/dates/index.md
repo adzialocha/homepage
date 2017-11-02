@@ -1,11 +1,19 @@
-Premiere @ Mayhem, Sonic Festival, Copenhagen DK - 09.09.17
+BLATT 3000 #9 Release @ Klangkeller, Berlin DE - 15.12.17
+https://blatt3000.de/
+
+Cybernetic Gamelan Future Automaton @ Fylkingen, Stockholm SE - 12.12.17
+
+Cybernetic Gamelan Future Automaton @ Exhibition: Cybernetic Choreographies, Spektrum, Berlin DE - 24.11.17
+http://spektrumberlin.de/
+
+Y-E-S first release - Berlin DE - 01.10.17
+*w. Neo Hülcker, Stellan Veloce, Martin Hiendl, Kaj Duncan David* https://y-e-s.org/
+
+Premiere: Cybernetic Gamelan Future Automaton @ Kvarterhuset, Sonic Festival, Copenhagen DK - 09.09.17
 *w. Kopenhagen Laptop Orchestra* http://www.sonic-festival.net/
 
 HOFFNUNG 3000 @ Klangkeller and everywhere, Berlin DE - 24.-26.08.17
 *self-curated, decentralized festival platform by BLATT 3000* https://hoffnung3000.de/
-
-Y-E-S release party - tba, Berlin DE - 24.07.17
-*w. Neo Hülcker, Stellan Veloce, Martin Hiendl, Kaj Duncan David* https://y-e-s.org/
 
 Solo @ ROTOR 2, Berlin DE - 28.06.17
 *w. Marta Forsberg, Martin Hiendl, Tim Novikov*
@@ -146,9 +154,3 @@ http://neuwestberlin.wordpress.com/
 
 Tula @ Fusion Festival, Lärz DE - 26.06.-29.06.14
 http://www.fusion-festival.de/
-
-Imbroglio @ Moers Festival, Moers DE - 05.06.14
-*w. Holger Dix (synth), Andreas Lessenich (sax), Philipp Sieg (dr), Andreas Dzialocha (eb)* http://www.moers-festival.de/
-
-Improv @ Ex-Stasi Building, Berlin DE - 29.05.14
-*w. Owen Roberts (clar), Christian Windfeld (snare), Karsten Lipp (egit), Andreas Dzialocha (eb)*

@@ -1,14 +1,15 @@
-@import 'vars';
-@import 'reset';
-@import 'global';
-@import 'typography';
-@import 'layout';
+// @import url('//hello.myfonts.net/count/3506b5');
 
-@import 'components/article';
-@import 'components/content';
-@import 'components/footer';
-@import 'components/gallery';
-@import 'components/header';
-@import 'components/image';
+@import 'vars';
+
+@import 'base/reset';
+
+@import 'base/fonts';
+@import 'base/global';
+@import 'base/links';
+@import 'base/typography';
+
 @import 'components/navigation';
-@import 'components/slider';
+@import 'components/page';
+@import 'components/project';
+@import 'components/wrapper';

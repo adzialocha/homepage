@@ -1,0 +1,47 @@
+$_project-width: $page-min-width;
+$_project-image-height: 240px;
+
+@mixin project-size($name, $size) {
+  .project--size-#{$name} {
+    width: $_project-width * $size;
+
+    .project__image {
+      width: $_project-width * $size;
+      height: $_project-image-height;
+    }
+  }
+}
+
+.project {
+  display: inline-block;
+
+  vertical-align: top;
+
+  &:hover {
+    background-color: $black;
+
+    .project__image {
+      visibility: hidden;
+    }
+  }
+
+  &.filter-inactive {
+    display: none;
+  }
+}
+
+@include project-size('large', 1)
+@include project-size('medium', .9)
+@include project-size('small', .8)
+
+.project__image {
+  background-color: $black;
+}
+
+.project__title {
+  padding: $page-margin;
+}
+
+.project__description {
+  padding: $page-margin;
+}

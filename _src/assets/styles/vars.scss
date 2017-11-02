@@ -1,31 +1,38 @@
 // colors
 
 $black: #000;
+$gray: #eee;
 $white: #fff;
+
+$green: #9ea;
+$blue: #03f;
+$yellow: #ee3;
 
 // fonts
 
-$font-family-regular: 'Roboto Mono', monospace;
+$font-family-regular: 'BergenText-Regular', sans-serif;
 
 $font-weight-regular: 400;
 $font-weight-heavy: 700;
 
-$font-size-regular: 16px;
+$font-size-xxl: 3rem;
+$font-size-xl: 2rem;
+$font-size-lg: 1.5rem;
+$font-size-md: 1.2rem;
+$font-size-sm: .8rem;
+$font-size-xs: .6rem;
+$font-size-xxs: .4rem;
 
-$font-size-h1: 38px;
-$font-size-h2: 32px;
-$font-size-h3: 28px;
-$font-size-h4: 22px;
-$font-size-h5: 18px;
-$font-size-h6: 16px;
+$font-size-base: 28px;
+$font-family-base: $font-family-regular;
+$font-weight-base: $font-weight-regular;
+
+// line heights
+
+$line-height-base: 1.3;
 
 // layout
 
-$layout-spacing: 30px;
-$layout-border-spacing: 80px;
-
-$mobile-breakpoint: 600px;
-
-// components
-
+$page-min-width: 320px;
 $slider-offset: -5%;
+$page-margin: 30px;

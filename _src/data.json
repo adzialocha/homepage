@@ -1,122 +1,72 @@
 {
   "meta": {
-    "version": "0.1.0",
+    "version": "2.0.0",
     "title": "andreasdzialocha.com",
     "url": "https://andreasdzialocha.com",
     "year": 2017,
-    "description": "Electric bass player, composer and programmer, based in Berlin and Stockholm.",
+    "description": "Andreas Dzialocha",
     "image": {
-      "src": "https://andreasdzialocha.com/assets/images/bg.jpg",
-      "width": "1200",
-      "height": "1200",
-      "type": "image/jpeg"
+      "src": "https://andreasdzialocha.com/assets/images/bg.png",
+      "width": "2560",
+      "height": "1600",
+      "type": "image/png"
     },
     "charset": "utf-8",
     "favicon": "/assets/images/favicon.ico",
     "styles": "/assets/styles/app.css",
     "scripts": "/assets/scripts/app.js"
   },
-  "navigation": {
-    "Projects": [
-      {
-        "title": "Hyperdelia",
-        "slug": "hyperdelia"
-      },
-      {
-        "title": "HOFFNUNG 3000",
-        "slug": "hoffnung3000"
-      },
-      {
-        "title": "BLATT 3000",
-        "slug": "blatt3000"
-      },
-      {
-        "title": "VERANTWORTUNG 3000",
-        "slug": "verantwortung3000"
-      },
-      {
-        "title": "Politics of self-curation",
-        "slug": "selfcuration"
-      },
-      {
-        "title": "SpontanFilmFestival",
-        "slug": "spontanfilmfestival"
-      }
-    ],
-    "Electric bass": [
-      {
-        "title": "Solo",
-        "slug": "solo-bass"
-      },
-      {
-        "title": "Serenus Zeitblom Oktett",
-        "slug": "serenus-zeitblom-oktett"
-      }
-    ],
-    "Compositions": [
-      {
-        "title": "NOR",
-        "slug": "nor"
-      },
-      {
-        "title": "Segmente A",
-        "slug": "segmente"
-      }
-    ],
-    "Code": [
-      {
-        "title": "Wut",
-        "slug": "wut"
-      },
-      {
-        "title": "Kubismus",
-        "slug": "kubismus"
-      },
-      {
-        "title": "8bit",
-        "slug": "8bit"
-      },
-      {
-        "title": "osc-js",
-        "slug": "osc-js"
-      }
-    ],
-    "Data": [
-      {
-        "title": "Biography",
-        "slug": "biography"
-      },
-      {
-        "title": "Discography",
-        "slug": "discography"
-      },
-      {
-        "title": "Dates",
-        "slug": "dates"
-      },
-      {
-        "title": "Contact",
-        "slug": "contact"
-      }
-    ]
-  },
-  "heading": "Andreas Dzialocha",
-  "subheading": "Electric bass player, composer and programmer",
-  "gallery": [
+  "navigation": [
     {
-      "src": "https://adz-random.herokuapp.com?r=1&c"
+      "type": "category",
+      "category": "music",
+      "title": "Music"
     },
     {
-      "src": "https://adz-random.herokuapp.com?r=2"
+      "type": "category",
+      "category": "platforms",
+      "title": "Platforms"
     },
     {
-      "src": "https://adz-random.herokuapp.com?r=3"
+      "type": "category",
+      "category": "code",
+      "title": "Code"
     },
     {
-      "src": "https://adz-random.herokuapp.com?r=4"
+      "type": "page",
+      "link": "/about",
+      "title": "About"
     },
     {
-      "src": "https://adz-random.herokuapp.com?r=5"
+      "type": "page",
+      "link": "/dates",
+      "title": "Dates"
+    },
+    {
+      "type": "page",
+      "link": "/contact",
+      "title": "Contact"
+    },
+    {
+      "type": "link",
+      "link": "https://github.com/adzialocha",
+      "title": "GitHub"
+    },
+    {
+      "type": "link",
+      "link": "https://twitter.com/adzialocha",
+      "title": "Twitter"
+    },
+    {
+      "type": "link",
+      "link": "https://hyperdelia.bandcamp.com",
+      "title": "Bandcamp"
+    },
+    {
+      "type": "link",
+      "link": "https://soundcloud.com/andreasdzialocha",
+      "title": "Soundcloud"
     }
-  ]
+  ],
+  "projects": []
 }

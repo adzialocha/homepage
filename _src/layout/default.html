@@ -1,3 +1,4 @@
+{% import "macros.html" as macros %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,33 +17,54 @@
   <link type="image/x-icon" href="{{ meta.favicon }}">
   <link type="image/x-icon" rel="icon" href="{{ meta.favicon }}">
   <link type="text/css" rel="stylesheet" href="{{ meta.styles }}?v={{ meta.version }}">
-  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700" rel="stylesheet">
-  <script type="text/javascript" src="{{ meta.scripts }}?v={{ meta.version }}"></script>
 </head>
 <body>
   <div class="wrapper">
-    <div class="slider">
-      <div class="slider__left">
-        {% include "gallery.html" %}
-      </div>
-      <div class="slider__right">
-        <div class="content">
-          <div class="header">
-            {% if heading %}<h1 class="header__heading"><a href="/">{{ heading }}</a></h1>{% endif %}
-            {% if subheading %}<h2 class="header__subheading">{{ subheading }}</h2>{% endif %}
-            <hr>
-            {% include "navigation.html" %}
-            <hr>
-          </div>
-          <div class="article">
-            {{ content | safe }}
-          </div>
-          <div class="footer">
-            <p>&copy; {{ meta.year }}</p>
-          </div>
+    <header>
+      <ul class="navigation" role="navigation">
+        <li class="navigation__item navigation__item--main">
+          <a class="navigation__item-link" href="/" title="Home">
+            {{ meta.title }}
+          </a>
+        </li>
+        {% if not title %}
+          {% for item in navigation %}
+            <li class="navigation__item navigation__item--{{ item.type }}" data-filter="{{ item.category }}" data-filter-category>
+              {% if item.type == 'category' %}
+                <a class="navigation__item-link" href="#">
+                  {{ item.title }}
+                </a>
+              {% else %}
+                {% call macros.link(item.link, "navigation__item-link") %}
+                  {{ item.title }}
+                {% endcall %}
+              {% endif %}
+            </li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </header>
+    <section>
+      {% if title %}
+        <div class="page">
+          <h1>{{ title }}</h1>
+          {{ content | safe }}
         </div>
-      </div>
-    </div>
+      {% else %}
+        {% for item in projects | sort(true, false, 'date') %}
+          {% call macros.link(item.link) %}
+            <div class="project project--size-{{ ['large', 'medium', 'small'] | random }}" data-filter="{{ item.category }}">
+              <div class="project__image" data-image-src="{{ item.imageUrl }}"></div>
+              <h3 class="project__title">{{ item.title }}</h3>
+              <div class="project__description">
+                {{ item.description }}
+              </div>
+            </div>
+          {% endcall %}
+        {% endfor %}
+      {% endif %}
+    </section>
   </div>
+  <script type="text/javascript" src="{{ meta.scripts }}?v={{ meta.version }}"></script>
 </body>
 </html>

@@ -21,9 +21,7 @@
   "homepage": "https://github.com/adzialocha/adzialocha.github.io#readme",
   "devDependencies": {
     "serve": "^6.3.1",
+    "static-generator": "^0.2.0",
     "watch": "^1.0.2"
-  },
-  "dependencies": {
-    "static-generator": "^0.1.0"
   }
 }

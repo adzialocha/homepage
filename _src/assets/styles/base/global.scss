@@ -1,0 +1,30 @@
+* {
+  &,
+  &:before,
+  &:after {
+    box-sizing: border-box;
+
+    text-rendering: optimizeLegibility;
+  }
+}
+
+::selection {
+  color: $white;
+  background-color: $black;
+
+  text-shadow: none;
+}
+
+html,
+body {
+  min-width: $page-min-width;
+  height: 100%;
+
+  background-color: $gray;
+
+  font-weight: $font-weight-base;
+  font-size: $font-size-base;
+  font-family: $font-family-base;
+
+  line-height: $line-height-base;
+}
