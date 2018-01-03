@@ -1,3 +1,9 @@
+Bild der Rettung - Rettung des Bildes @ HAU, Berlin DE - 10.-11.02.18
+*w. Dieter Lesage, Herman Asselberghs, Alice Creischer, Georges Didi-Huberman, Tobias Hülswitt, Dieter Lesage, Kadir “Amigo” Memis, Georg Seeßlen, Andreas Siekmann, Oraib Toukan, Christian von Borries, Ina Wudtke, Tirdad Zolghadr* http://www.hebbel-am-ufer.de/programm/spielplan/2018-02/lesage-bild-der-rettung/3679/
+
+AI Music Makers Hack Lab @ CTM Festival, HAU2, Berlin DE - 04.02.18
+*w. Ioann Maria, Peter Kirn and many others* http://www.ctm-festival.de/festival-2018/transfer/musicmakers-hacklab/
+
 BLATT 3000 #9 Release @ Klangkeller, Berlin DE - 15.12.17
 https://blatt3000.de/
 
