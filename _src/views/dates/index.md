@@ -1,3 +1,6 @@
+Portrait of BLATT 3000 @ Lake Radio 14.02.18
+https://soundcloud.com/thelakeradio/a-portrait-of-blatt-3000
+
 Bild der Rettung - Rettung des Bildes @ HAU, Berlin DE - 10.-11.02.18
 *w. Herman Asselberghs, Alice Creischer, Georges Didi-Huberman, Tobias Hülswitt, Dieter Lesage, Kadir “Amigo” Memis, Georg Seeßlen, Andreas Siekmann, Oraib Toukan, Christian von Borries, Ina Wudtke, Tirdad Zolghadr* http://www.hebbel-am-ufer.de/programm/spielplan/2018-02/lesage-bild-der-rettung/3679/
 

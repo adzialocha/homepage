@@ -70,6 +70,14 @@
   ],
   "projects": [
     {
+      "date": "180214",
+      "category": "platforms",
+      "title": "A portrait of BLATT 3000",
+      "description": "For Lake Radio",
+      "image": "/assets/images/project-portrait-b3k.jpg",
+      "link": "https://soundcloud.com/thelakeradio/a-portrait-of-blatt-3000"
+    },
+    {
       "date": "180210",
       "category": "code",
       "title": "Bild der Rettung | Rettung des Bildes",
