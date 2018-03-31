@@ -1,7 +1,25 @@
-Portrait of BLATT 3000 @ Lake Radio 14.02.18
+Y-E-S Fest @ Agora, Berlin DE - 28.-30.09.18
+https://y-e-s.org/
+
+BLATT 3000 lecture @ City University, London UK - 14.-15.09.18
+https://www.city.ac.uk/
+
+Hyperdelia HEX 002 release concert @ Storkyrkobadet, Stockholm SE - 02.06.18
+https://hyperdelia.com/
+
+Solo Recordings @ Stockholm SE - 23.-25.05.18
+*w. Sam Slater*
+
+10 Years SpontanFilmFestival @ Moers DE - 04.-05.05.18
+https://spontanfilmfestival.de/
+
+Cybernetic Gamelan Future Automaton @ Art Colony, Nida LT - 22.03.18
+*w. Anne Glassner, Marta Forsberg*
+
+Portrait of BLATT 3000 @ Lake Radio DK - 14.02.18
 https://soundcloud.com/thelakeradio/a-portrait-of-blatt-3000
 
-Bild der Rettung - Rettung des Bildes @ HAU, Berlin DE - 10.-11.02.18
+Bild der Rettung - Rettung des Bildes @ HAU1, Berlin DE - 10.-11.02.18
 *w. Herman Asselberghs, Alice Creischer, Georges Didi-Huberman, Tobias Hülswitt, Dieter Lesage, Kadir “Amigo” Memis, Georg Seeßlen, Andreas Siekmann, Oraib Toukan, Christian von Borries, Ina Wudtke, Tirdad Zolghadr* http://www.hebbel-am-ufer.de/programm/spielplan/2018-02/lesage-bild-der-rettung/3679/
 
 AI Music Makers Hack Lab @ CTM Festival, HAU2, Berlin DE - 04.02.18
@@ -11,6 +29,7 @@ BLATT 3000 #9 Release @ Klangkeller, Berlin DE - 15.12.17
 https://blatt3000.de/
 
 Cybernetic Gamelan Future Automaton @ Fylkingen, Stockholm SE - 12.12.17
+*w. Hara Alonso, David Granström, Vilhelm Bromander*
 
 Cybernetic Gamelan Future Automaton @ Exhibition: Cybernetic Choreographies, Spektrum, Berlin DE - 24.11.17
 http://spektrumberlin.de/
