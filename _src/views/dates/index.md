@@ -4,14 +4,22 @@ https://y-e-s.org/
 BLATT 3000 lecture @ City University, London UK - 14.-15.09.18
 https://www.city.ac.uk/
 
+NOR Ensemble @ Festuge, Aarhus DK - 03.-04.09.18
+*w. Christian Windfeld (cymbal), Sam Andreae (sax), Andreas Dzialocha (eb), Kaj Duncan David (electronics) and tba* https://aarhusfestuge.dk/
+
+Tomomibot @ Lettrétage, Berlin DE - 25.07.18
+Performance AI research and workshop *w. Tomomi Adachi (voice), Marcello Lussana (development), Andreas Dzialocha (AI development)*
+
 Hyperdelia HEX 002 release concert @ Storkyrkobadet, Stockholm SE - 02.06.18
 https://hyperdelia.com/
 
-Solo Recordings @ Stockholm SE - 23.-25.05.18
+Solo LP Processings @ Stockholm SE - 23.-25.05.18
 *w. Sam Slater*
 
 10 Years SpontanFilmFestival @ Moers DE - 04.-05.05.18
 https://spontanfilmfestival.de/
+
+Solo LP Recordings @ Nida LT - 16.-22.04.18
 
 Cybernetic Gamelan Future Automaton @ Art Colony, Nida LT - 22.03.18
 *w. Anne Glassner, Marta Forsberg*
