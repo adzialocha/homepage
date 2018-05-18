@@ -1,3 +1,7 @@
+Neujahrskonzert "Land der Musik" @ Helmut List Halle, Musikprotokoll im Steirischen Herbst, Graz AT - 07.10.18
+*w. Christian von Borries and tba*
+https://www.steirischerherbst.at/
+
 Y-E-S Fest @ Agora, Berlin DE - 28.-30.09.18
 https://y-e-s.org/
 
@@ -5,7 +9,7 @@ BLATT 3000 lecture @ City University, London UK - 14.-15.09.18
 https://www.city.ac.uk/
 
 NOR Ensemble @ Festuge, Aarhus DK - 03.-04.09.18
-*w. Christian Windfeld (cymbal), Sam Andreae (sax), Andreas Dzialocha (eb), Kaj Duncan David (electronics) and tba* https://aarhusfestuge.dk/
+*w. Christian Windfeld (snare, cymbal), Sam Andreae (electronics, sax), Andreas Dzialocha (eb), Kaj Duncan David (hacked radio), Lil Lacy (voice, violoncello)* https://aarhusfestuge.dk/
 
 Tomomibot @ Lettrétage, Berlin DE - 25.07.18
 Performance AI research and workshop *w. Tomomi Adachi (voice), Marcello Lussana (development), Andreas Dzialocha (AI development)*
