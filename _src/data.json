@@ -3,7 +3,7 @@
     "version": "2.0.1",
     "title": "andreasdzialocha.com",
     "url": "https://andreasdzialocha.com",
-    "year": 2017,
+    "year": 2018,
     "description": "Andreas Dzialocha",
     "image": {
       "src": "https://andreasdzialocha.com/assets/images/bg.png",
@@ -64,6 +64,22 @@
     }
   ],
   "projects": [
+    {
+      "date": "180929",
+      "category": "music",
+      "title": "Y-E-S Fest",
+      "description": "Festival for experimental scores",
+      "image": "/assets/images/project-yesfest.jpg",
+      "link": "https://y-e-s.org"
+    },
+    {
+      "date": "180725",
+      "category": "code",
+      "title": "Tomomibot",
+      "description": "AI bot for live voice improvisation",
+      "image": "/assets/images/project-tomomibot.png",
+      "link": "https://github.com/adzialocha/tomomibot"
+    },
     {
       "date": "180214",
       "category": "platforms",
@@ -207,6 +223,14 @@
       "description": "Interactive virtual environment",
       "image": "/assets/images/project-segmente.jpg",
       "link": "http://www.hans-henningkorb.com/segmente-a.html"
+    },
+    {
+      "date": "090505",
+      "category": "platforms",
+      "title": "SpontanFilmFestival",
+      "description": "Young people make movies in 24 hours",
+      "image": "/assets/images/project-sff.png",
+      "link": "https://spontanfilmfestival.de"
     }
   ]
 }

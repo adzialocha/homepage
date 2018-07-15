@@ -1,6 +1,6 @@
 {
   "name": "adzialocha.github.io",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Static page for andreasdzialocha.com",
   "main": "index.html",
   "scripts": {
@@ -20,8 +20,8 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/adzialocha/adzialocha.github.io#readme",
   "devDependencies": {
-    "serve": "^6.4.4",
-    "static-generator": "^0.2.1",
+    "serve": "^9.2.0",
+    "static-generator": "^0.2.2",
     "watch": "^1.0.2"
   }
 }
