@@ -1,16 +1,16 @@
 {
   "name": "adzialocha.github.io",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Static page for andreasdzialocha.com",
   "main": "index.html",
   "scripts": {
-    "build": "static-generator build",
-    "clear": "static-generator clear",
-    "new": "static-generator new",
+    "build": "npm run prepare && static-generator build -s ./src -o ./dist",
+    "clear": "rimraf ./dist",
     "serve": "serve",
-    "start": "npm run serve",
+    "prepare": "mkdir -p ./dist",
+    "start": "npm run prepare && npm run serve",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "watch 'npm run build' _src"
+    "watch": "watch --interval=1 --wait=1 'npm run build' ./src"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,8 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/adzialocha/adzialocha.github.io#readme",
   "devDependencies": {
-    "serve": "^9.2.0",
+    "rimraf": "^2.6.2",
+    "serve": "^9.4.0",
     "static-generator": "^0.2.2",
     "watch": "^1.0.2"
   }
