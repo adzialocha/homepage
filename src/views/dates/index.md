@@ -1,12 +1,18 @@
-Neujahrskonzert "Land der Musik" @ Helmut List Halle, Musikprotokoll im Steirischen Herbst, Graz AT - 07.10.18
-*w. Christian von Borries and tba*
+Neujahrskonzert "Land der Musik" @ Helmut List Halle, ORF Musikprotokoll and steirischer herbst, Graz AT - 07.10.18
+*w. Christian von Borries, recreation - Grosses Orchester Graz*
 https://www.steirischerherbst.at/
 
-Y-E-S Fest @ Agora, Berlin DE - 28.-30.09.18
-https://y-e-s.org/
+Christian von Borries in conversation with Andreas Dzialocha and Ana Teixeira Pinto @ Helmut List Halle, Graz AT - 07.10.18
+https://www.steirischerherbst.at/en/public-program/christian-von-borries-conversation-andreas-dzialocha-and-ana-teixeira-pinto
 
-BLATT 3000 lecture @ City University, London UK - 14.-15.09.18
-https://www.city.ac.uk/
+Y-E-S Fest @ Agora, Berlin DE - 29.-30.09.18
+*w. Neo Hülcker, Madison Greenstone, Anne Glassner, Marcela Lucatelli, Kaj Duncan David, Sam Yulsman, Andreas Dzialocha, Jessie Marino, Martin Hiendl, Stellan Veloce, Yiran Zhao* https://2018.y-e-s.org/
+
+BLATT 3000 lecture @ SPARC Symposium 2018, City University, London UK - 14.-15.09.18
+https://sparc.london/sparc-symposium-sociosonic
+
+Panel @ Eigen+Art Lab, Berlin DE - 11.09.18
+http://eigen-art-lab.com/
 
 NOR Ensemble @ Festuge, Aarhus DK - 03.-04.09.18
 *w. Christian Windfeld (snare, cymbal), Sam Andreae (electronics, sax), Andreas Dzialocha (eb), Kaj Duncan David (hacked radio), Lil Lacy (voice, violoncello)* https://aarhusfestuge.dk/
