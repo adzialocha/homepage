@@ -12,9 +12,10 @@ BLATT 3000 lecture @ SPARC Symposium 2018, City University, London UK - 14.-15.0
 https://sparc.london/sparc-symposium-sociosonic
 
 Panel @ Eigen+Art Lab, Berlin DE - 11.09.18
+*w. Neo Hülcker, Johanna Bruckner, Annkathrin Kluss, Milosz Rosinski*
 http://eigen-art-lab.com/
 
-NOR Ensemble @ Festuge, Aarhus DK - 03.-04.09.18
+NOR Ensemble @ Spanien 18b, Aarhus DK - 03.-04.09.18
 *w. Christian Windfeld (snare, cymbal), Sam Andreae (electronics, sax), Andreas Dzialocha (eb), Kaj Duncan David (hacked radio), Lil Lacy (voice, violoncello)* https://aarhusfestuge.dk/
 
 Tomomibot @ Lettrétage, Berlin DE - 25.07.18
