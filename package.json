@@ -1,6 +1,6 @@
 {
   "name": "adzialocha.github.io",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Static page for andreasdzialocha.com",
   "main": "index.html",
   "scripts": {
@@ -22,7 +22,7 @@
   "devDependencies": {
     "rimraf": "^2.6.3",
     "serve": "^10.1.1",
-    "static-generator": "^0.2.4",
+    "static-generator": "^0.2.5",
     "watch": "^1.0.2"
   }
 }
