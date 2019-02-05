@@ -1,11 +1,12 @@
 {
-  "name": "adzialocha.github.io",
-  "version": "2.0.4",
+  "name": "homepage",
+  "version": "2.1.0",
   "description": "Static page for andreasdzialocha.com",
   "main": "index.html",
   "scripts": {
     "build": "npm run prepare && static-generator build -s ./src -o ./dist && cp pgp.asc ./dist",
     "clear": "rimraf ./dist",
+    "deploy": "./deploy.sh ./dist",
     "prepare": "mkdir -p ./dist",
     "serve": "serve",
     "start": "npm run prepare && npm run serve",
@@ -14,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adzialocha/adzialocha.github.io.git"
+    "url": "git+https://github.com/adzialocha/homepage.git"
   },
   "private": true,
   "license": "UNLICENSED",
-  "homepage": "https://github.com/adzialocha/adzialocha.github.io#readme",
+  "homepage": "https://github.com/adzialocha/homepage#readme",
   "devDependencies": {
     "rimraf": "^2.6.3",
     "serve": "^10.1.1",
