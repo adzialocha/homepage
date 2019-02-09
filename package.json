@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npm run prepare && static-generator build -s ./src -o ./dist && cp pgp.asc ./dist",
     "clear": "rimraf ./dist",
-    "deploy": "./deploy.sh ./dist",
+    "deploy": "deploy ./dist httpdocs web",
     "prepare": "mkdir -p ./dist",
     "serve": "serve",
     "start": "npm run prepare && npm run serve",

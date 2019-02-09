@@ -7,8 +7,8 @@ This is the home of [andreasdzialocha.com](https://andreasdzialocha.com), built 
 Run the following commands to bootstrap the development environment:
 
 ```
-git clone git@github.com:adzialocha/adzialocha.github.io.git
-cd adzialocha.github.io
+git clone git@github.com:adzialocha/homepage
+cd homepage
 npm install
 ```
 
