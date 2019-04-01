@@ -1,3 +1,14 @@
+Vereinsgründung @ Berlin, DE - 27.04.19
+BLATT 3000 initiates the foundation of a new Verein
+
+Tomomibot @ Kule, Berlin DE - 18.04.19
+Performance, AI experiment and workshop *w. Tomomi Adachi (voice), Marcello Lussana (development), Andreas Dzialocha (AI development)*
+
+Release party @ Berlin DE - 27.03.19
+*w. Christian von Borries, Andreas Dzialocha, Martin Hossbach*
+The Graz Score LP by AI UNIT
+https://kompakt.fm/releases/land_der_musik_the_graz_ai_score
+
 Neujahrskonzert "Land der Musik" @ Helmut List Halle, ORF Musikprotokoll and steirischer herbst, Graz AT - 07.10.18
 *w. Christian von Borries, recreation - Grosses Orchester Graz*
 https://www.steirischerherbst.at/

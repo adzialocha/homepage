@@ -3,7 +3,7 @@
     "version": "2.0.3",
     "title": "andreasdzialocha.com",
     "url": "https://andreasdzialocha.com",
-    "year": 2018,
+    "year": 2019,
     "description": "Andreas Dzialocha is an electric bass player, producer, composer and developer. His work consists of both digital and physical environments, spaces, festivals, software or platforms for participants and listeners",
     "image": {
       "src": "https://andreasdzialocha.com/assets/images/bg.png",
@@ -64,6 +64,14 @@
     }
   ],
   "projects": [
+    {
+      "date": "190327",
+      "category": "music",
+      "title": "The Graz AI Score",
+      "description": "12\" lp, 2019",
+      "image": "/assets/images/project-graz-ai-score.jpg",
+      "link": "https://kompakt.fm/releases/land_der_musik_the_graz_ai_score"
+    },
     {
       "date": "181007",
       "category": "music",
