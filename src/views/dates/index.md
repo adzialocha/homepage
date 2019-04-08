@@ -1,8 +1,14 @@
+AI - Art - I Talk @ re;publica 19, Berlin, DE - 06.05.19
+*w. Diana Alina Serbanescu, Julia Schneider, Andreas Dzialocha, Christian von Borries, Lena Kadriye Ziyal, Eric Eitel*
+https://19.re-publica.com/en/session/ai-art-i
+
 Vereinsgründung @ Berlin, DE - 27.04.19
 BLATT 3000 initiates the foundation of a new Verein
+https://blatt3000.de/
 
 Tomomibot @ Kule, Berlin DE - 18.04.19
 Performance, AI experiment and workshop *w. Tomomi Adachi (voice), Marcello Lussana (development), Andreas Dzialocha (AI development)*
+http://kunsthauskule.de/
 
 Release party @ Berlin DE - 27.03.19
 *w. Christian von Borries, Andreas Dzialocha, Martin Hossbach*
