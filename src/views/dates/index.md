@@ -1,3 +1,16 @@
+Tomomibot @ Ars Electronica Festival, Linz, AT - 05.-09.09.19
+Prix Ars Electronica in category "Digital Musics & Sound Art" - Award of Distinction
+*w. Tomomi Adachi, Marcello Lussana, Andreas Dzialocha*
+https://ars.electronica.art/prix/en/winners/
+
+Panel @ Kultursymposium, Weimar, DE - 20.06.19
+Deutschlandfunk Kultur "Breitband"
+https://www.goethe.de/prj/kwe/de/index.html
+
+Y-E-S in Schwarz @ Schwarz, DE - 24.-31.05.19
+*w. Neo Hülcker, Stellan Veloce, Laure M. Hiendl, Andreas Dzialocha, Kaj Duncan David*
+https://y-e-s.org
+
 AI - Art - I Talk @ re;publica 19, Berlin, DE - 06.05.19
 *w. Diana Alina Serbanescu, Julia Schneider, Andreas Dzialocha, Christian von Borries, Lena Kadriye Ziyal, Eric Eitel*
 https://19.re-publica.com/en/session/ai-art-i
@@ -23,7 +36,7 @@ Christian von Borries in conversation with Andreas Dzialocha and Ana Teixeira Pi
 https://www.steirischerherbst.at/en/public-program/christian-von-borries-conversation-andreas-dzialocha-and-ana-teixeira-pinto
 
 Y-E-S Fest @ Agora, Berlin DE - 29.-30.09.18
-*w. Neo Hülcker, Madison Greenstone, Anne Glassner, Marcela Lucatelli, Kaj Duncan David, Sam Yulsman, Andreas Dzialocha, Jessie Marino, Martin Hiendl, Stellan Veloce, Yiran Zhao* https://2018.y-e-s.org/
+*w. Neo Hülcker, Madison Greenstone, Anne Glassner, Marcela Lucatelli, Kaj Duncan David, Sam Yulsman, Andreas Dzialocha, Jessie Marino, Laure M. Hiendl, Stellan Veloce, Yiran Zhao* https://2018.y-e-s.org/
 
 BLATT 3000 lecture @ SPARC Symposium 2018, City University, London UK - 14.-15.09.18
 https://sparc.london/sparc-symposium-sociosonic
@@ -71,7 +84,7 @@ Cybernetic Gamelan Future Automaton @ Exhibition: Cybernetic Choreographies, Spe
 http://spektrumberlin.de/
 
 Y-E-S first release - Berlin DE - 01.10.17
-*w. Neo Hülcker, Stellan Veloce, Martin Hiendl, Kaj Duncan David* https://y-e-s.org/
+*w. Neo Hülcker, Stellan Veloce, Laure M. Hiendl, Kaj Duncan David* https://y-e-s.org/
 
 Premiere: Cybernetic Gamelan Future Automaton @ Kvarterhuset, Sonic Festival, Copenhagen DK - 09.09.17
 *w. Kopenhagen Laptop Orchestra* http://www.sonic-festival.net/
@@ -80,7 +93,7 @@ HOFFNUNG 3000 @ Klangkeller and everywhere, Berlin DE - 24.-26.08.17
 *self-curated, decentralized festival platform by BLATT 3000* https://hoffnung3000.de/
 
 Solo @ ROTOR 2, Berlin DE - 28.06.17
-*w. Marta Forsberg, Martin Hiendl, Tim Novikov*
+*w. Marta Forsberg, Laure M. Hiendl, Tim Novikov*
 
 Wut von Elfriede Jelinek - Eine psychogeographische Konzert-Performance @ Dresdner Musikfestspiele, Frauenkirche, Dresden DE - 17.06.17
 *w. Dresdner Sinfoniker, Dresdner Bürgerchor, Staatsschauspiel Dresden - Christian von Borries (Musikalische Leitung / Regie), Andreas Dzialocha (AI Programmierung der Orchesterpartitur), Anne-Alma Quastenberg (Ausstattung), Michael Gööck (Licht), Beate Heine, Paula Oevermann (Dramaturgie)* http://www.staatsschauspiel-dresden.de/spielplan/archiv/w/wut_jelinek_wagner_und_jesus_von_nazareth/
