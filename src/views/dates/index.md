@@ -1,21 +1,32 @@
-Tomomibot @ Ars Electronica Festival, Linz, AT - 05.-09.09.19
+Social, artistic and theoretical experiments with decentralized festivals @ our:networks, Toronto CA - 20.-22.09.19
+https://ournetworks.ca/
+
+Talk @ Ai x Music Festival, Linz AT - 07.09.19
+*w. Tomomi Adachi, Andreas Dzialocha*
+https://ars.electronica.art/outofthebox/en/aixmusic/
+
+Tomomibot @ Ars Electronica Festival, Linz AT - 05.09.19
 Prix Ars Electronica in category "Digital Musics & Sound Art" - Award of Distinction
 *w. Tomomi Adachi, Marcello Lussana, Andreas Dzialocha*
 https://ars.electronica.art/prix/en/winners/
 
-Panel @ Kultursymposium, Weimar, DE - 20.06.19
+Concert @ Klangkeller Summer Fest, Berlin DE - 13.07.19
+*w. Kaj Duncan David, Andreas Dzialocha*
+http://www.klangkeller.net/
+
+Panel @ Kultursymposium, Weimar DE - 20.06.19
 Deutschlandfunk Kultur "Breitband"
 https://www.goethe.de/prj/kwe/de/index.html
 
-Y-E-S in Schwarz @ Schwarz, DE - 24.-31.05.19
+Y-E-S in Schwarz @ Schwarz DE - 24.-31.05.19
 *w. Neo Hülcker, Stellan Veloce, Laure M. Hiendl, Andreas Dzialocha, Kaj Duncan David*
 https://y-e-s.org
 
-AI - Art - I Talk @ re;publica 19, Berlin, DE - 06.05.19
+AI - Art - I Talk @ re;publica 19, Berlin DE - 06.05.19
 *w. Diana Alina Serbanescu, Julia Schneider, Andreas Dzialocha, Christian von Borries, Lena Kadriye Ziyal, Eric Eitel*
 https://19.re-publica.com/en/session/ai-art-i
 
-Vereinsgründung @ Berlin, DE - 27.04.19
+Vereinsgründung @ Berlin DE - 27.04.19
 BLATT 3000 initiates the foundation of a new Verein
 https://blatt3000.de/
 
@@ -191,19 +202,19 @@ Solo @ Echo Bücher, Berlin 24.04.15
 
 Solo Recordings @ Schwarz, Mecklenburg Vorpommern DE - 29.03-04.04.15
 
-Tula - Obaren, Stockholm SE - 18.03.15
+Tula @ Obaren, Stockholm SE - 18.03.15
 
-Tula - Ideal Bar, Kopenhagen DK - 17.03.15
+Tula @ Ideal Bar, Kopenhagen DK - 17.03.15
 
-Tula - Sugar Factory, Amsterdam NL - 15.03.15
+Tula @ Sugar Factory, Amsterdam NL - 15.03.15
 
-Tula - Silencio, Paris UK - 14.03.15
+Tula @ Silencio, Paris UK - 14.03.15
 
-Tula - The Stillery, London UK - 12.03.15
+Tula @ The Stillery, London UK - 12.03.15
 
-Tula - Monsigneur, Paris FR - 10.03.15
+Tula @ Monsigneur, Paris FR - 10.03.15
 
-Tula - Auster Club, Berlin DE - 07.03.15
+Tula @ Auster Club, Berlin DE - 07.03.15
 
 Serenus Zeitblom Oktett Recordings @ Vox Ton Studio, Berlin DE - 23.-25.02.15
 *w. Els Vandeweyer (vib), David Meier (dr), Moritz Bossmann (egit), Karsten Lipp (egit), Shasta Ellenbogen (va), Isabelle Klemt (vc), Richard Koch (tr), Andreas Dzialocha (eb), Matthias Erb (Klanggestaltung)*
