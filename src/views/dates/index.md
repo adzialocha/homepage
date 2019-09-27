@@ -1,11 +1,24 @@
+DAAD/CTM AI in Music Session, Berlin DE - 21.-23.11.19
+https://www.ctm-festival.de
+
+Collective Conditions @ Constant, Brussels BE - 08.-11.11.19
+http://constantvzw.org/site/-Collective-Conditions,220-.html
+
 Social, artistic and theoretical experiments with decentralized festivals @ our:networks, Toronto CA - 20.-22.09.19
 https://ournetworks.ca/
 
-Talk @ Ai x Music Festival, Linz AT - 07.09.19
+Die Preisträger des Prix Ars Electronica 2019 @ Zeit-Ton, Ö1 Radio AT, 12.09.19
+https://oe1.orf.at/programm/20190912/572461/Die-Preistraeger-des-Prix-Ars-Electronica-2019
+
+Tomomibot @ Ai x Music Festival, St. Florian AT - 07.09.19
 *w. Tomomi Adachi, Andreas Dzialocha*
 https://ars.electronica.art/outofthebox/en/aixmusic/
 
-Tomomibot @ Ars Electronica Festival, Linz AT - 05.09.19
+Prix Forum II @ Ars Electronica Festival, OÖ Kulturquartier Linz AT - 07.09.19
+*w. Shilla Strelka, Peter Kutin, Tomomi Adachi, Andreas Dzialocha*
+https://ars.electronica.art/outofthebox/en/aixmusic/
+
+Tomomibot @ Ars Electronica Festival, Post City, Linz AT - 05.09.19
 Prix Ars Electronica in category "Digital Musics & Sound Art" - Award of Distinction
 *w. Tomomi Adachi, Marcello Lussana, Andreas Dzialocha*
 https://ars.electronica.art/prix/en/winners/
