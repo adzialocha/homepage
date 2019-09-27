@@ -21,9 +21,9 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/adzialocha/homepage#readme",
   "devDependencies": {
-    "rimraf": "^2.6.3",
-    "serve": "^11.0.0",
-    "static-generator": "^0.2.6",
+    "rimraf": "^3.0.0",
+    "serve": "^11.2.0",
+    "static-generator": "^0.2.7",
     "watch": "^1.0.2"
   }
 }
