@@ -49,6 +49,13 @@
   ],
   "projects": [
     {
+      "date": "190929",
+      "title": "p2panda",
+      "description": "p2p protocol for alternative ways of organizing",
+      "image": "/assets/images/project-p2panda.png",
+      "link": "https://github.com/p2panda/design-document"
+    },
+    {
       "date": "190327",
       "title": "The Graz AI Score",
       "description": "12\" lp, 2019",
