@@ -120,7 +120,7 @@
     },
     {
       "date": "170824",
-      "title": "hoffnung 3000",
+      "title": "HOFFNUNG 3000",
       "description": "self-curated, decentralized festival in berlin",
       "image": "/assets/images/project-hoffnung3000.png",
       "link": "https://hoffnung3000.de"
@@ -169,10 +169,10 @@
     },
     {
       "date": "160830",
-      "title": "verantwortung 3000",
+      "title": "VERANTWORTUNG 3000",
       "description": "self-curated festival in brandenburg",
       "image": "/assets/images/project-verantwortung3000.jpg",
-      "link": "http://www.verantwortung3000.de"
+      "link": "https://darmstadt3000.herokuapp.com"
     },
     {
       "date": "160816",
@@ -204,7 +204,7 @@
     },
     {
       "date": "141001",
-      "title": "blatt 3000",
+      "title": "BLATT 3000",
       "description": "platform for collaboration, decentralization and self-curation",
       "image": "/assets/images/project-blatt3000.png",
       "link": "https://blatt3000.de"
