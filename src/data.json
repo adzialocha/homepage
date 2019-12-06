@@ -49,6 +49,13 @@
   ],
   "projects": [
     {
+      "date": "191207",
+      "title": "badbadnotbad.ai",
+      "description": "the ugly, the very bad and sometimes the good",
+      "image": "/assets/images/project-badbadnotbad.jpg",
+      "link": "https://badbadnotbad.ai"
+    },
+    {
       "date": "190929",
       "title": "p2panda",
       "description": "p2p protocol for alternative ways of organizing",
@@ -75,6 +82,13 @@
       "description": "midi music data augmentation for machine learning",
       "image": "/assets/images/project-midi-orchestra.png",
       "link": "https://github.com/ai-unit/midi-orchestra"
+    },
+    {
+      "date": "181101",
+      "title": "AI UNIT",
+      "description": "machine learning network",
+      "image": "/assets/images/project-aiunit.png",
+      "link": "https://aiunit.org"
     },
     {
       "date": "180929",
