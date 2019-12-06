@@ -1,5 +1,15 @@
-DAAD/CTM AI in Music Session, Berlin DE - 21.-23.11.19
+Talk: p2panda @ C36C3, Leipzig DE - 27.-30.12.19
+**w. sophiiistika**
+https://events.ccc.de/congress/2019/wiki
+
+badbadnotbad.ai - First gathering @ Palazzo, Berlin DE - 07.12.19
+https://badbadnotbad.ai
+
+DAAD/CTM AI in Music Session, Berlin DE - 22.-23.11.19
 https://www.ctm-festival.de
+
+p2panda presentation @ p2p meetup, CityLAB, Berlin DE - 21.11.19
+https://p2p-berlin.org/
 
 Collective Conditions @ Constant, Brussels BE - 08.-11.11.19
 http://constantvzw.org/site/-Collective-Conditions,220-.html
