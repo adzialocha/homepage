@@ -1,6 +1,6 @@
 # homepage
 
-This is the home of [andreasdzialocha.com](https://andreasdzialocha.com), built with [static-generator](https://github.com/adzialocha/static-generator).
+This is the home of [adz.garden](https://adz.garden), built with [static-generator](https://github.com/adzialocha/static-generator).
 
 ## Development
 

@@ -61,7 +61,7 @@ rules:
   no-color-literals: 1
   no-css-comments: 1
   no-debug: 1
-  no-duplicate-properties: 1
+  no-duplicate-properties: 0
   no-empty-rulesets: 1
   no-extends: 0
   no-ids: 1
@@ -78,7 +78,7 @@ rules:
       allow-element-with-id: false
   no-trailing-zero: 1
   no-transition-all: 0
-  no-url-protocols: 1
+  no-url-protocols: 0
   no-vendor-prefixes:
     - 1
     - additional-identifiers: []

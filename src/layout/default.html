@@ -1,12 +1,11 @@
-{% import "macros.html" as macros %}
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="{{ meta.charset }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
   <meta name="description" content="{{ meta.description }}">
-  <title>{{ meta.title }}{% if title %} - {{ title }}{% endif %}</title>
-  <meta property="og:title" content="{{ meta.title }}{% if title %} - {{ title }}{% endif %}">
+  <title>{{ meta.title }}{% if title %} ~ {{ title }}{% endif %}</title>
+  <meta property="og:title" content="{{ meta.title }}{% if title %} ~ {{ title }}{% endif %}">
   <meta property="og:description" content="{{ meta.description }}">
   <meta property="og:url" content="{{ meta.url }}{% if slug %}/{{ slug }}{% endif %}">
   <meta property="og:image" content="{{ meta.image.src }}">
@@ -14,50 +13,79 @@
   <meta property="og:image:width" content="{{ meta.image.width }}">
   <meta property="og:image:height" content="{{ meta.image.height }}">
   <link type="image/x-icon" rel="shortcut icon" href="{{ meta.favicon }}">
-  <link type="image/x-icon" href="{{ meta.favicon }}">
+  <link type="image/x-icon" rel="icon" href="{{ meta.favicon }}">
   <link type="image/x-icon" rel="icon" href="{{ meta.favicon }}">
   <link type="text/css" rel="stylesheet" href="{{ meta.styles }}?v={{ meta.version }}">
 </head>
 <body>
-  <div class="wrapper">
-    <header>
-      <ul class="navigation" role="navigation">
-        <li class="navigation__item navigation__item--main">
-          <a class="navigation__item-link" href="/" title="Home">
-            {{ meta.title }}
-          </a>
-        </li>
-        {% if not title %}
-          {% for item in navigation %}
-            <li class="navigation__item navigation__item--{{ item.type }}">
-              {% call macros.link(item.link, "navigation__item-link") %}
-                {{ item.title }}
-              {% endcall %}
-            </li>
-          {% endfor %}
-        {% endif %}
-      </ul>
-    </header>
-    <section>
-      {% if title %}
-        <div class="page">
-          <h1>{{ title }}</h1>
-          {{ content | safe }}
-        </div>
-      {% else %}
-        {% for item in projects | sort(true, false, 'date') %}
-          {% call macros.link(item.link) %}
-            <div class="project">
-              <img class="project__image" src="{{ item.image }}"></img>
-              <h3 class="project__title">{{ item.title }}</h3>
-              <div class="project__description">
-                {{ item.description }}
-              </div>
-            </div>
-          {% endcall %}
-        {% endfor %}
+  <header>
+    <h1 class="title{% if sidebar %} title--with-sidebar{% endif %}" id="toggle">{{ meta.title }}{% if title %} ~ {{ title }}{% endif %}</h1>
+
+    <div class="navigation" id="navigation">
+      <a class="navigation__link" href="/">Archive</a>
+      <a class="navigation__link" href="/dates">Dates</a>
+      <a class="navigation__link" href="/about">About</a>
+      <a class="navigation__link" href="/contact">Contact</a>
+    </div>
+
+    <div class="navigation-close" id="navigation-close"></div>
+  </header>
+
+  {% if title %}
+    <main class="main{% if sidebar %} main--with-sidebar{% endif %}">
+      {{ content | safe }}
+
+      {% if not isNewsletterHidden %}
+        <a href="/newsletter" class="newsletter">
+          Subscribe to newsletter
+        </a>
       {% endif %}
-    </section>
-  </div>
+    </main>
+
+    {% if sidebar %}
+      <aside class="sidebar">
+        <ul class="meta">
+          {% for item in sidebar %}
+            <a href="{{ item.link }}" target="_blank">
+              <li class="meta__item">
+                {{ item.title }}
+              </li>
+            </a>
+          {% endfor %}
+        </ul>
+      </aside>
+    {% endif %}
+  {% else %}
+    <svg class="garden" id="garden"></svg>
+
+    {% if featured %}
+      <aside class="featured">
+        <a class="featured__link" href="{{ featured.link }}">
+          <h2>{{ featured.title }}</h2>
+          <img alt="{{ featured.title }}" src="{{ featured.image }}" />
+          <p>{{ featured.description }}</p>
+        </a>
+      </aside>
+    {% endif %}
+
+    <main class="main main--with-garden">
+      <ul class="archive">
+        {% for item in archive %}
+          <li class="archive__item">
+            <a class="archive__link" href="{{ item.link }}">
+              <section class="box">
+                <div class="box__content">
+                  <h2>{{ item.title }}</h2>
+                  <p>{{ item.description }}</p>
+                </div>
+              </section>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </main>
+  {% endif %}
+
+  <script src="{{ meta.scripts }}?v={{ meta.version }}"></script>
 </body>
 </html>

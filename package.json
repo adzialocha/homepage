@@ -1,10 +1,10 @@
 {
   "name": "homepage",
-  "version": "2.1.0",
-  "description": "Static page for andreasdzialocha.com",
+  "version": "3.0.0",
+  "description": "Static page for adz.garden",
   "main": "index.html",
   "scripts": {
-    "build": "npm run prepare && static-generator build -s ./src -o ./dist && cp pgp.asc ./dist",
+    "build": "npm run prepare && static-generator build -s ./src -o ./dist",
     "clear": "rimraf ./dist",
     "deploy": "deploy ./dist httpdocs web",
     "prepare": "mkdir -p ./dist",
@@ -21,9 +21,11 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/adzialocha/homepage#readme",
   "devDependencies": {
+    "eslint": "^6.8.0",
     "rimraf": "^3.0.0",
-    "serve": "^11.2.0",
-    "static-generator": "^0.2.7",
+    "sass-lint": "^1.13.1",
+    "serve": "^11.3.0",
+    "static-generator": "^0.2.8",
     "watch": "^1.0.2"
   }
 }

@@ -1,241 +1,32 @@
 {
   "meta": {
-    "version": "2.1.0",
-    "title": "andreasdzialocha.com",
-    "url": "https://andreasdzialocha.com",
-    "year": 2019,
+    "version": "3.0.0",
+    "title": "adz.garden",
+    "url": "https://adz.garden",
+    "year": 2020,
     "description": "Andreas Dzialocha is an electric bass player, producer, composer and developer. His work consists of both digital and physical environments, spaces, festivals, software or platforms for participants and listeners.",
     "image": {
-      "src": "https://andreasdzialocha.com/assets/images/bg.png",
+      "src": "https://adz.garden/assets/images/bg.png",
       "width": "2560",
       "height": "1600",
       "type": "image/png"
     },
     "charset": "utf-8",
     "favicon": "/assets/images/favicon.ico",
+    "scripts": "/assets/scripts/app.js",
     "styles": "/assets/styles/app.css"
   },
-  "navigation": [
+  "featured": {
+    "title": "For Always LP",
+    "link": "/for-always-lp",
+    "image": "/for-always-lp/for-always-lp-cover.png",
+    "description": "Hyperdelia HEX 005 12\" LP w. Sam Slater, Fågelle, Marta Forsberg."
+  },
+  "archive": [
     {
-      "type": "page",
-      "link": "/about",
-      "title": "about"
-    },
-    {
-      "type": "page",
-      "link": "/dates",
-      "title": "dates"
-    },
-    {
-      "type": "page",
-      "link": "/contact",
-      "title": "contact"
-    },
-    {
-      "type": "link",
-      "link": "https://github.com/adzialocha",
-      "title": "github"
-    },
-    {
-      "type": "link",
-      "link": "https://hyperdelia.bandcamp.com",
-      "title": "bandcamp"
-    },
-    {
-      "type": "link",
-      "link": "https://soundcloud.com/andreasdzialocha",
-      "title": "soundcloud"
-    }
-  ],
-  "projects": [
-    {
-      "date": "191207",
-      "title": "badbadnotbad.ai",
-      "description": "the ugly, the very bad and sometimes the good",
-      "image": "/assets/images/project-badbadnotbad.jpg",
-      "link": "https://badbadnotbad.ai"
-    },
-    {
-      "date": "190929",
       "title": "p2panda",
-      "description": "p2p protocol for alternative ways of organizing",
-      "image": "/assets/images/project-p2panda.png",
-      "link": "https://github.com/p2panda/design-document"
-    },
-    {
-      "date": "190327",
-      "title": "The Graz AI Score",
-      "description": "12\" lp, 2019",
-      "image": "/assets/images/project-graz-ai-score.jpg",
-      "link": "https://kompakt.fm/releases/land_der_musik_the_graz_ai_score"
-    },
-    {
-      "date": "181007",
-      "title": "land der musik - ein neujahrskonzert",
-      "description": "volksfronten orchestra performance",
-      "image": "/assets/images/project-land-der-musik.png",
-      "link": "https://2018.steirischerherbst.at/volksfronten/artists/christian-von-borries"
-    },
-    {
-      "date": "181001",
-      "title": "midi orchestra",
-      "description": "midi music data augmentation for machine learning",
-      "image": "/assets/images/project-midi-orchestra.png",
-      "link": "https://github.com/ai-unit/midi-orchestra"
-    },
-    {
-      "date": "181101",
-      "title": "AI UNIT",
-      "description": "machine learning network",
-      "image": "/assets/images/project-aiunit.png",
-      "link": "https://aiunit.org"
-    },
-    {
-      "date": "180929",
-      "title": "y-e-s fest",
-      "description": "festival for experimental scores",
-      "image": "/assets/images/project-yesfest.jpg",
-      "link": "https://2018.y-e-s.org"
-    },
-    {
-      "date": "180725",
-      "title": "tomomibot",
-      "description": "ai bot for live voice improvisation",
-      "image": "/assets/images/project-tomomibot.png",
-      "link": "https://github.com/adzialocha/tomomibot"
-    },
-    {
-      "date": "180214",
-      "title": "a portrait of blatt 3000",
-      "description": "for lake radio",
-      "image": "/assets/images/project-portrait-b3k.jpg",
-      "link": "https://soundcloud.com/thelakeradio/a-portrait-of-blatt-3000"
-    },
-    {
-      "date": "180210",
-      "title": "bild der rettung | rettung des bildes",
-      "description": "automated gan mass image production",
-      "image": "/assets/images/project-bild-der-rettung.gif",
-      "link": "https://www.hebbel-am-ufer.de/programm/pdetail/lesage-bild-der-rettung/"
-    },
-    {
-      "date": "171001",
-      "title": "y-e-s",
-      "description": "platform for intermedial scores",
-      "image": "/assets/images/project-yes.jpg",
-      "link": "https://y-e-s.org"
-    },
-    {
-      "date": "170909",
-      "title": "cybernetic gamelan future automaton",
-      "description": "network-based browser game for laptop performers",
-      "image": "/assets/images/project-cybernetic-gamelan-future-automaton.jpg",
-      "link": "https://www.youtube.com/watch?v=qc2i82y4oS0"
-    },
-    {
-      "date": "170824",
-      "title": "HOFFNUNG 3000",
-      "description": "self-curated, decentralized festival in berlin",
-      "image": "/assets/images/project-hoffnung3000.png",
-      "link": "https://hoffnung3000.de"
-    },
-    {
-      "date": "170722",
-      "title": "serenus zeitblom oktett",
-      "description": "documentary by roman hagenbrock",
-      "image": "/assets/images/project-szo-film.jpg",
-      "link": "https://www.youtube.com/watch?v=P5cogslrB0U"
-    },
-    {
-      "date": "170612",
-      "title": "erster teil - zweiter teil - dritter teil",
-      "description": "12” lp, hyperdelia, 2017",
-      "image": "/assets/images/project-szo-lp.jpg",
-      "link": "https://boomkat.com/products/erster-teil-zweiter-teil-dritter-teil"
-    },
-    {
-      "date": "170201",
-      "title": "8bit",
-      "description": "notes on building a 8bit cpu",
-      "image": "/assets/images/project-8bit.gif",
-      "link": "https://github.com/adzialocha/8bit"
-    },
-    {
-      "date": "170101",
-      "title": "hyperdelia",
-      "description": "record label based in berlin",
-      "image": "/assets/images/project-hyperdelia.png",
-      "link": "https://hyperdelia.com"
-    },
-    {
-      "date": "170801",
-      "title": "osc-js",
-      "description": "javascript osc library",
-      "image": "/assets/images/project-osc-js.jpg",
-      "link": "https://github.com/adzialocha/osc-js"
-    },
-    {
-      "date": "170617",
-      "title": "elfriede jelinek - wut",
-      "description": "ai generated orchestra score",
-      "image": "/assets/images/project-wut.jpg",
-      "link": "https://soundcloud.com/andreasdzialocha/sets/wut-ai-orchestra-score"
-    },
-    {
-      "date": "160830",
-      "title": "VERANTWORTUNG 3000",
-      "description": "self-curated festival in brandenburg",
-      "image": "/assets/images/project-verantwortung3000.jpg",
-      "link": "https://darmstadt3000.herokuapp.com"
-    },
-    {
-      "date": "160816",
-      "title": "love and verantwortung",
-      "description": "intermedial lecture on platforms, decentralization, love and self-curation",
-      "image": "/assets/images/project-unm.jpg",
-      "link": "https://github.com/adzialocha/mission-control-server"
-    },
-    {
-      "date": "160617",
-      "title": "kubismus",
-      "description": "microscopical osc editor",
-      "image": "/assets/images/project-kubismus.png",
-      "link": "https://github.com/adzialocha/kubismus"
-    },
-    {
-      "date": "151110",
-      "title": "solo ep",
-      "description": "cassette, slip imprint, 2015",
-      "image": "/assets/images/project-solo-ep.jpg",
-      "link": "https://slipimprint.bandcamp.com/album/solo"
-    },
-    {
-      "date": "150527",
-      "title": "nor",
-      "description": "improvised music in a highly artifical environment",
-      "image": "https://raw.githubusercontent.com/adzialocha/NOR/master/NOR.gif",
-      "link": "https://github.com/adzialocha/nor"
-    },
-    {
-      "date": "141001",
-      "title": "BLATT 3000",
-      "description": "platform for collaboration, decentralization and self-curation",
-      "image": "/assets/images/project-blatt3000.png",
-      "link": "https://blatt3000.de"
-    },
-    {
-      "date": "120710",
-      "title": "segmente a",
-      "description": "interactive virtual environment",
-      "image": "/assets/images/project-segmente.jpg",
-      "link": "http://www.hans-henningkorb.com/segmente-a.html"
-    },
-    {
-      "date": "090505",
-      "title": "spontanfilmfestival",
-      "description": "young people make movies in 24 hours",
-      "image": "/assets/images/project-sff.png",
-      "link": "https://spontanfilmfestival.de"
+      "link": "/p2panda",
+      "description": "protocol for self-organized festivals"
     }
   ]
 }

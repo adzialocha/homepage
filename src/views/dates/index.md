@@ -1,6 +1,25 @@
+Concert @ Cafe Oto, London UK - 17.08.20
+*w. Sam Slater, Teresa Winter*
+https://www.cafeoto.co.uk
+
+Presentation @ kultur | digital, Zürich CH - 15.05.20
+
+Solo LP release @ Hyperdelia, HEX 005 - 20.02.20
+https://hyperdelia.com
+
+badbadnotbad.ai - Third gathering @ Berlin DE - 28.01.20
+https://badbadnotbad.ai
+
+p2p berlin [LCV e. V.] @ CityLAB, Berlin DE - 23.01.20
+*w. Reclaim Club Culture, Eileen Wagner*
+https://p2p-berlin.org
+
+badbadnotbad.ai - Second gathering @ Berlin DE - 19.01.20
+https://badbadnotbad.ai
+
 Talk: p2panda @ C36C3, Leipzig DE - 27.-30.12.19
-**w. sophiiistika**
-https://events.ccc.de/congress/2019/wiki
+*w. sophiiistika, cafca*
+https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10756.html
 
 badbadnotbad.ai - First gathering @ Palazzo, Berlin DE - 07.12.19
 https://badbadnotbad.ai
