@@ -24,9 +24,206 @@
   },
   "archive": [
     {
+      "title": "For Always LP",
+      "link": "/for-always-lp",
+      "image": "/for-always-lp/for-always-lp.jpg",
+      "description": "12\" LP, Hyperdelia, 2020 w. Sam Slater, Fågelle, Marta Forsberg"
+    },
+    {
+      "title": "Symbiotic Seeing - sound component",
+      "link": "/symbiotic-seeing",
+      "image": "/symbiotic-seeing/symbiotic-seeing.jpg",
+      "description": "Sound installation w. Hildur Guðnadóttir @ Kunsthaus Zürich"
+    },
+    {
+      "title": "Tiny Chronicler (working title)",
+      "link": "/tiny-chronicler",
+      "description": "Travelling sound piece / composition w. Marta Forsberg & Passepartout Duo"
+    },
+    {
+      "title": "Liebe Chaos Verein e. V.",
+      "link": "/liebe-chaos-verein",
+      "description": "More campfires and boiling pots to sit around"
+    },
+    {
+      "title": "badbadnotbad.ai",
+      "link": "/badbadnotbad",
+      "image": "/badbadnotbad/badbadnotbad-palazzo.jpg",
+      "description": "AI UNIT gatherings in Palazzo on machine learning and its politics"
+    },
+    {
       "title": "p2panda",
       "link": "/p2panda",
-      "description": "protocol for self-organized festivals"
+      "image": "/p2panda/p2panda-logo.png",
+      "description": "Protocol for self-organized festivals"
+    },
+    {
+      "title": "midi-orchestra",
+      "link": "/midi-orchestra",
+      "description": "Machine learning music data augmentation tools"
+    },
+    {
+      "title": "Land der Musik LP",
+      "link": "/land-der-musik-LP",
+      "image": "/land-der-musik-lp/land-der-musik-lp-cover.jpg",
+      "description": "12\" LP, 2019 w. Christian von Borries"
+    },
+    {
+      "title": "tomomibot",
+      "link": "/tomomibot",
+      "image": "/tomomibot/tomomibot.png",
+      "description": "AI bot for live voice improvisation w. Tomomi Adachi"
+    },
+    {
+      "title": "Land der Musik - Ein Neujahrskonzert",
+      "link": "/land-der-musik",
+      "description": "Volksfronten orchestra performance with AI generated score"
+    },
+    {
+      "title": "Y-E-S Fest 2018",
+      "link": "/yes-fest",
+      "image": "/yes-fest/yes-fest-1.jpg",
+      "description": "Festival for experimental scores in Berlin"
+    },
+    {
+      "title": "AI UNIT",
+      "link": "/ai-unit",
+      "description": "Music and machine learning collective"
+    },
+    {
+      "title": "AGAR AGAR 3000",
+      "link": "/agar-agar-3000",
+      "description": "BLATT 3000 lecture @ Socio Sonic, London"
+    },
+    {
+      "title": "A portrait of BLATT 3000",
+      "link": "/blatt3000-lake-radio",
+      "description": "for Lake Radio"
+    },
+    {
+      "title": "verantwortung3000",
+      "link": "/verantwortung3000",
+      "description": "Self-organized festival in Brandenburg, 2016"
+    },
+    {
+      "title": "Cybernetic Gamelan Future Automaton",
+      "link": "/cgfa",
+      "description": "Network-based browser / music game for laptop performers"
+    },
+    {
+      "title": "Y-E-S",
+      "link": "/yes",
+      "description": "Platform for intermedial scores"
+    },
+    {
+      "title": "HOFFNUNG 3000",
+      "link": "/hoffnung3000",
+      "description": "Self-curated decentralized festival platform"
+    },
+    {
+      "title": "Bild der Rettung | Rettungs des Bildes",
+      "link": "/bild-der-rettung",
+      "description": "Automated GAN mass image production"
+    },
+    {
+      "title": "Dead composers",
+      "link": "/dead-composers",
+      "description": "Composers works enter the public domain"
+    },
+    {
+      "title": "WOMB",
+      "link": "/womb",
+      "description": "Interactive 3D audio environment w. Kajsa Lindgren"
+    },
+    {
+      "title": "NOR",
+      "link": "/nor",
+      "description": "Improvised music in a highly artificial environment"
+    },
+    {
+      "title": "Segmente A",
+      "link": "/segmente-a",
+      "description": "Interactive sound installation / virtual 3D environment"
+    },
+    {
+      "title": "BLATT 3000",
+      "link": "/blatt3000",
+      "description": "Platform for collaboration, decentralization and self-curation"
+    },
+    {
+      "title": "Elfriede Jelinek - Wut",
+      "link": "/wut",
+      "description": "AI generated orchestra score for theater"
+    },
+    {
+      "title": "Hacklab CTM",
+      "link": "/hacklab-ctm",
+      "description": "Network-based mobile device sound performance / installation @ CTM HackLab 2018"
+    },
+    {
+      "title": "Erster Teil - Zweiter Teil - Dritter Teil",
+      "link": "/erster-teil-zweiter-teil-dritter-teil",
+      "description": "12\" LP, Hyperdelia, 2017"
+    },
+    {
+      "title": "osc-js",
+      "link": "/osc-js",
+      "description": "JavaScript OSC library"
+    },
+    {
+      "title": "8bit",
+      "link": "/8bit",
+      "description": "Notes on building a 8bit computer"
+    },
+    {
+      "title": "Love and Verantwortung",
+      "link": "/love-and-verantwortung",
+      "description": "BLATT 3000 intermedial Lecture Performance @ UNM"
+    },
+    {
+      "title": "To All Frequencies I Can Not Sense",
+      "link": "/to-all-frequencies",
+      "description": "Serenus Zeitblom Oktett w. Marta Forsberg"
+    },
+    {
+      "title": "Hyperdelia",
+      "link": "/hyperdelia",
+      "description": "Record label based in Berlin"
+    },
+    {
+      "title": "Echo",
+      "link": "/echo",
+      "description": "Serenus Zeitblom Oktett performs Echo by Ingrid Laubrock"
+    },
+    {
+      "title": "Tula",
+      "link": "/tula",
+      "description": "Band"
+    },
+    {
+      "title": "Serenus Zeitblom Oktett",
+      "link": "/serenus-zeitblom-oktett",
+      "description": "Ensemble from Berlin"
+    },
+    {
+      "title": "main-brain",
+      "link": "/main-brain",
+      "description": "Performance w. Sam Andreae"
+    },
+    {
+      "title": "Solo EP",
+      "link": "/solo-ep",
+      "description": "Cassette, Slip Imprint, 2015"
+    },
+    {
+      "title": "MCACAMMAC ACMCMACMA",
+      "link": "/mca",
+      "description": "Trio w. Christian Windfeld & Moritz Bossmann"
+    },
+    {
+      "title": "SpontanFilmFestival",
+      "link": "/spontanfilmfestival",
+      "description": "Festival for young people making movies in 24 hours"
     }
   ]
 }

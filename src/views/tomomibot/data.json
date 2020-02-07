@@ -1,0 +1,17 @@
+{
+  "title": "tomomibot",
+  "sidebar": [
+    {
+      "title": "Prix Forum II Panel",
+      "link": "https://www.youtube.com/watch?v=phC-br-Cpfc"
+    },
+    {
+      "title": "Ars Electronica Award",
+      "link": "https://ars.electronica.art/press/en/2019/05/22/die-gewinnerinnen-des-prix-ars-electronica-2019/"
+    },
+    {
+      "title": "Source Code",
+      "link": "https://github.com/adzialocha/tomomibot"
+    }
+  ]
+}

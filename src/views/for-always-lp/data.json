@@ -1,3 +1,17 @@
 {
-  "title": "For Always LP"
+  "title": "For Always LP",
+  "sidebar": [
+    {
+      "title": "hyperdelia",
+      "link": "https://hyperdelia.com/"
+    },
+    {
+      "title": "bandcamp",
+      "link": "https://hyperdelia.bandcamp.com/album/for-always-lp"
+    },
+    {
+      "title": "soundcloud",
+      "link": "https://soundcloud.com/andreasdzialocha"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Liebe Chaos Verein",
+  "sidebar": [
+    {
+      "title": "homepage",
+      "link": "https://liebechaos.org"
+    },
+    {
+      "title": "github",
+      "link": "https://github.com/liebechaos"
+    },
+    {
+      "title": "chat",
+      "link": "https://wald.liebechaos.org"
+    }
+  ]
+}
