@@ -6,10 +6,10 @@
     "year": 2020,
     "description": "Andreas Dzialocha is an electric bass player, producer, composer and developer. His work consists of both digital and physical environments, spaces, festivals, software or platforms for participants and listeners.",
     "image": {
-      "src": "https://adz.garden/assets/images/bg.png",
-      "width": "2560",
-      "height": "1600",
-      "type": "image/png"
+      "src": "https://adz.garden/assets/images/flag.jpg",
+      "width": "1700",
+      "height": "1200",
+      "type": "image/jpeg"
     },
     "charset": "utf-8",
     "favicon": "/assets/images/favicon.ico",
