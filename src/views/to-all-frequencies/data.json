@@ -1,3 +1,13 @@
 {
-  "title": "To all frequencies I can not sense"
+  "title": "To All Frequencies",
+  "sidebar": [
+    {
+      "title": "Video",
+      "link": "https://www.youtube.com/watch?v=c6QUeUQUqt0"
+    },
+    {
+      "title": "Marta Forsberg",
+      "link": "https://martaforsberg.com/"
+    }
+  ]
 }

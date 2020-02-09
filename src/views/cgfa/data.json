@@ -1,3 +1,21 @@
 {
-  "title": "Cybernetic Gamelan Future Automaton"
+  "title": "Cybernetic Gamelan Future Automaton",
+  "sidebar": [
+    {
+      "title": "Play",
+      "link": "https://cgfa.andreasdzialocha.com"
+    },
+    {
+      "title": "Video",
+      "link": "https://www.youtube.com/watch?v=qc2i82y4oS0"
+    },
+    {
+      "title": "Source Code",
+      "link": "https://github.com/adzialocha/cybernetic-gamelan-future-automaton"
+    },
+    {
+      "title": "Y-E-S Release",
+      "link": "https://y-e-s.org"
+    }
+  ]
 }

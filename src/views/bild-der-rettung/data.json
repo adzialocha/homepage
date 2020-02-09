@@ -1,3 +1,9 @@
 {
-  "title": "Bild der Rettung | Rettung des Bildes"
+  "title": "Bild der Rettung | Rettung des Bildes",
+  "sidebar": [
+    {
+      "title": "HAU I",
+      "link": "https://www.hebbel-am-ufer.de/en/programme/pdetail/lesage-bild-der-rettung/"
+    }
+  ]
 }

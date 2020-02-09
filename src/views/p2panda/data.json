@@ -2,15 +2,15 @@
   "title": "p2panda",
   "sidebar": [
     {
-      "title": "design document",
+      "title": "Design document",
       "link": "https://github.com/p2panda/design-document"
     },
     {
-      "title": "talk @ c36c3",
+      "title": "Talk @ C36C3",
       "link": "https://www.youtube.com/watch?v=qyWJP9277nk"
     },
     {
-      "title": "talk @ our:networks",
+      "title": "Talk @ our:networks",
       "link": "https://www.youtube.com/watch?v=Teu0xkQ7FvU"
     }
   ]

@@ -1,3 +1,13 @@
 {
-  "title": "Segmente A"
+  "title": "Segmente A",
+  "sidebar": [
+    {
+      "title": "Video",
+      "link": "https://vimeo.com/73303061"
+    },
+    {
+      "title": "Audio",
+      "link": "https://soundcloud.com/andreasdzialocha/segmente-a-extract-6-03-13"
+    }
+  ]
 }

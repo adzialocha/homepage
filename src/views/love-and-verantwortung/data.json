@@ -1,3 +1,13 @@
 {
-  "title": "Love and Verantwortung"
+  "title": "Love and Verantwortung",
+  "sidebar": [
+    {
+      "title": "Source Code",
+      "link": "https://github.com/adzialocha/mission-control-server"
+    },
+    {
+      "title": "BLATT 3000",
+      "link": "https://blatt3000.de"
+    }
+  ]
 }

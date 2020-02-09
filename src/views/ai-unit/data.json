@@ -1,3 +1,17 @@
 {
-  "title": "AI UNIT"
+  "title": "AI UNIT",
+  "sidebar": [
+    {
+      "title": "Homepage",
+      "link": "https://aiunit.org"
+    },
+    {
+      "title": "badbadnotbad.ai",
+      "link": "https://badbadnotbad.ai"
+    },
+    {
+      "title": "Land der Musik - Video",
+      "link": "https://www.steirischerherbst.at/de/videos/705/christian-von-borries"
+    }
+  ]
 }

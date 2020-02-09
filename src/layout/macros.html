@@ -1,5 +1,0 @@
-{% macro link(href, class) %}
-  <a href="{{ href }}" {% if class %}class="{{ class }}"{% endif %} {% if href.indexOf('http') === 0 %}target="_blank"{% endif %}>
-    {{ caller() }}
-  </a>
-{% endmacro %}

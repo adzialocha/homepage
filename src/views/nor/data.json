@@ -1,3 +1,9 @@
 {
-  "title": "NOR"
+  "title": "NOR",
+  "sidebar": [
+    {
+      "title": "Source Code",
+      "link": "https://github.com/adzialocha/NOR"
+    }
+  ]
 }

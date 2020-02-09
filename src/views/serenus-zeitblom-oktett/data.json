@@ -1,3 +1,29 @@
 {
-  "title": "Serenus Zeitblom Oktett"
+  "title": "Serenus Zeitblom Oktett",
+  "sidebar": [
+  	{
+      "title": "LP",
+      "link": "https://boomkat.com/products/erster-teil-zweiter-teil-dritter-teil"
+    },
+    {
+      "title": "Erster Teil",
+      "link": "https://www.youtube.com/watch?v=mO_FmfVEi5o"
+    },
+    {
+      "title": "Video",
+      "link": "https://www.youtube.com/watch?v=UGUmblTauAk"
+    },
+  	{
+      "title": "Video II",
+      "link": "https://www.youtube.com/watch?v=bvUVM6eOQvQ"
+    },
+    {
+      "title": "w. Marta Forsberg",
+      "link": "https://www.youtube.com/watch?v=c6QUeUQUqt0"
+    },
+    {
+      "title": "w. Ingrid Laubrock",
+      "link": "http://alarmefestival.de/past-editions/volume-iii-2015/"
+    }
+  ]
 }

@@ -1,3 +1,13 @@
 {
-  "title": "Y-E-S"
+  "title": "Y-E-S",
+  "sidebar": [
+    {
+      "title": "Homepage",
+      "link": "https://y-e-s.org"
+    },
+    {
+      "title": "Y-E-S Fest 2018",
+      "link": "https://2018.y-e-s.org"
+    }
+  ]
 }

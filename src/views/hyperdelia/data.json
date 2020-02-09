@@ -1,3 +1,21 @@
 {
-  "title": "Hyperdelia"
+  "title": "Hyperdelia",
+  "sidebar": [
+    {
+      "title": "Bandcamp",
+      "link": "https://hyperdelia.bandcamp.com"
+    },
+    {
+      "title": "Website",
+      "link": "https://hyperdelia.com"
+    },
+    {
+      "title": "Soundcloud",
+      "link": "https://www.soundcloud.com/hyperdelia"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/_hyperdelia"
+    }
+  ]
 }

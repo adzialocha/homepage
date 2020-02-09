@@ -461,12 +461,18 @@ img {
   &:hover {
     background-color: $black;
   }
+
+  &:last-child {
+    width: 100%;
+  }
 }
 
 .archive__link {
   display: block;
 
   height: 100%;
+
+  cursor: pointer;
 }
 
 @media (max-width: $mobile-width) {

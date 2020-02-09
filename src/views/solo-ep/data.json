@@ -1,3 +1,13 @@
 {
-  "title": "Solo EP"
+  "title": "Solo EP",
+  "sidebar": [
+    {
+      "title": "Bandcamp",
+      "link": "https://slipimprint.bandcamp.com/album/solo"
+    },
+    {
+      "title": "Live Video",
+      "link": "https://www.youtube.com/watch?v=4u5EHYus4zw"
+    }
+  ]
 }
