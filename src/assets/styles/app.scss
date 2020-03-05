@@ -112,7 +112,7 @@ ul {
 
 html,
 body {
-  min-width: 320px;
+  min-width: 300px;
   height: 100%;
 
   font-weight: $font-weight;
@@ -154,6 +154,8 @@ h6 {
 
   font-weight: $font-weight;
 
+  word-wrap: break-word;
+
   &::before {
     display: 'inline';
 
@@ -167,6 +169,10 @@ strong {
   border-bottom: 5px $black solid;
 
   font-weight: $font-weight;
+}
+
+p {
+  word-wrap: break-word;
 }
 
 p + p {
