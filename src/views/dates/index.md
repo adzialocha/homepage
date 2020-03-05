@@ -1,8 +1,15 @@
+Concert @ Studio dB, Berlin DE - 26.09.20
+*w. Marta Forsberg, Stellan Veloce, Fågelle, Sam Slater*
+
 Concert @ Cafe Oto, London UK - 17.08.20
 *w. Sam Slater, Teresa Winter*
 https://www.cafeoto.co.uk
 
 Presentation @ kultur | digital, Zürich CH - 15.05.20
+https://www.digitalisierung-zuerich.ch
+
+badbadnotbad.ai - Fourth gathering @ Berlin DE - 08.03.20
+https://badbadnotbad.ai
 
 Solo LP release @ Hyperdelia, HEX 005 - 20.02.20
 https://hyperdelia.com
