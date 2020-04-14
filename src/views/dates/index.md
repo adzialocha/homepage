@@ -5,7 +5,7 @@ Concert @ Cafe Oto, London UK - 17.08.20
 *w. Sam Slater, Teresa Winter*
 https://www.cafeoto.co.uk
 
-Presentation @ kultur | digital, Zürich CH - 15.05.20
+Presentation @ kultur | digital, Zürich CH - 15.05.20 [Cancelled]
 https://www.digitalisierung-zuerich.ch
 
 badbadnotbad.ai - Fourth gathering @ Berlin DE - 08.03.20

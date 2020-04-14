@@ -24,6 +24,18 @@
   },
   "archive": [
     {
+      "title": "Future Fairness",
+      "link": "/future-fairness",
+      "image": "/future-fairness/future-fairness.jpg",
+      "description": "Web-based voting system for decentralised cultural decision making"
+    },
+    {
+      "title": "Love Chaos Quarantine",
+      "link": "/love-chaos-quarantine",
+      "image": "/love-chaos-quarantine/lovechaosquarantine.jpg",
+      "description": "Adhoc online festival"
+    },
+    {
       "title": "For Always LP",
       "link": "/for-always-lp",
       "image": "/for-always-lp/for-always-lp.jpg",
