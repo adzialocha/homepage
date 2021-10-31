@@ -24,6 +24,12 @@
   },
   "archive": [
     {
+      "title": "p2panda",
+      "link": "/p2panda",
+      "image": "/p2panda/p2panda-logo.png",
+      "description": "Peer-to-peer communications protocol for secure, energy-efficient, offline- and local-first web applications"
+    },
+    {
       "title": "CultureStake",
       "link": "/culturestake",
       "image": "/culturestake/future-fairness.jpg",
