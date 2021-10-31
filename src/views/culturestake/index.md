@@ -16,10 +16,10 @@ In this way we hope to increase a shared sense of agency, imagination and allian
 
 CultureStake Software is published under a GNU Affero General Public License v3.0 AGPL-3.0
 
-* Main Repository URL: https://github.com/lazaruslabs/culturestake
-* Smart Contracts Repository URL: https://github.com/lazaruslabs/culturestake-contracts
-* Subgraph Repository URL: https://github.com/lazaruslabs/culturestake-subgraph
-* Infrastructure Provisioning URL: https://github.com/lazaruslabs/culturestake-provisioning
+* Main Repository URL: https://github.com/bitspossessed/culturestake
+* Smart Contracts Repository URL: https://github.com/bitspossessed/culturestake-contracts
+* Subgraph Repository URL: https://github.com/bitspossessed/culturestake-subgraph
+* Infrastructure Provisioning URL: https://github.com/bitspossessed/culturestake-provisioning
 
 ## Credits
 

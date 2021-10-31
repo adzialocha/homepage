@@ -1,10 +1,8 @@
-Tool for self-organized and decentralized festivals.
-
-![p2panda - Logo](/festival-tool/p2panda-logo.png)
+Ideas for a tool for self-organized and decentralized festivals.
 
 A festival can be anything you want to plan with your friends, your circle, your collective, your commune – or people you have never met before: Use the tool directly on your devices and create workshops, gatherings, initiatives, concerts or conferences using the computers and phones you already have – independent of any commercial infrastructure.
 
-![Festival Tool - Datatypes](/festival-tool/p2panda-datatypes.jpg)
+![Festival Tool - Datatypes](/festival-tool/festival-datatypes.jpg)
 
 What is in it?
 
@@ -14,7 +12,7 @@ What is in it?
 - **Open Protocol:** It is an easy-to-extend protocol that records the connection of users, resources and events. You can create a serendipity bot that occasionally creates random meeting events for your festival goers, or a hardware display with a live update of the festival schedule, or an archive bot that makes available a permanent copy of the festival on the world wide web.
 - **Warmth:** Computers make it easy to get carried away by their rigidly structured ways. However, every computer also contains an undeniable spark of pure chaos. We want to capture that spark to ignite a campfire for you to gather around and get cosy.
 
-![Festival Tool - Authorization](/festival-tool/p2panda-authorization.jpg)
+![Festival Tool - Authorization](/festival-tool/festival-authorization.jpg)
 
 This might be interesting for:
 

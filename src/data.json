@@ -24,9 +24,9 @@
   },
   "archive": [
     {
-      "title": "Future Fairness",
-      "link": "/future-fairness",
-      "image": "/future-fairness/future-fairness.jpg",
+      "title": "CultureStake",
+      "link": "/culturestake",
+      "image": "/culturestake/future-fairness.jpg",
       "description": "Web-based voting system for decentralised cultural decision making"
     },
     {
@@ -62,7 +62,7 @@
     {
       "title": "p2p Festival Tool",
       "link": "/festival-tool",
-      "image": "/festival-tool/p2panda-logo.png",
+      "image": "/festival-tool/festival-authorization.jpg",
       "description": "Tool for self-organized festivals"
     },
     {

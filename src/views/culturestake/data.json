@@ -1,0 +1,25 @@
+{
+  "title": "CultureStake",
+  "sidebar": [
+    {
+      "title": "Website",
+      "link": "https://culturestake.org/"
+    },
+    {
+      "title": "Video",
+      "link": "https://vimeo.com/523730680"
+    },
+    {
+      "title": "Source Code",
+      "link": "http://github.com/bitspossessed/culturestake"
+    },
+    {
+      "title": "Furtherfield",
+      "link": "https://www.furtherfield.org/culturestake-2/"
+    },
+    {
+      "title": "Decal Website",
+      "link": "http://decal.is"
+    }
+  ]
+}
