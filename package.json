@@ -4,7 +4,7 @@
   "description": "Static page for adz.garden",
   "main": "index.html",
   "scripts": {
-    "build": "npm run prepare && static-generator build -s ./src -o ./dist",
+    "build": "npm run prepare && static-generator build -s ./src -o ./dist && cp -r ./src/assets/files ./dist/assets/files",
     "clear": "rimraf ./dist",
     "deploy": "deploy ./dist httpdocs web",
     "prepare": "mkdir -p ./dist",
