@@ -21,11 +21,14 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/adzialocha/homepage#readme",
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "rimraf": "^3.0.0",
+    "eslint": "^8.3.0",
+    "rimraf": "^3.0.2",
     "sass-lint": "^1.13.1",
-    "serve": "^11.3.0",
-    "static-generator": "^0.2.8",
+    "serve": "^13.0.2",
+    "static-generator": "^0.2.11",
     "watch": "^1.0.2"
+  },
+  "dependencies": {
+    "fix": "^0.0.6"
   }
 }
