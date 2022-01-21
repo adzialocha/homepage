@@ -1,5 +1,10 @@
+Concert @ KM28, Berlin DE - 26.01.22
+*w. Elizabeth Davis*
+https://www.km28.de
+
 Concert @ Petersburg Art Space, Berlin DE - 05.12.21
 *w. Kaj Duncan David, Stellan Veloce, Laure M. Hiendl, Neo Hülcker*
+https://pas-berlin.org
 
 Concert @ Studio dB, Berlin DE - 26.09.20 [Cancelled]
 *w. Marta Forsberg, Stellan Veloce, Fågelle, Sam Slater*
