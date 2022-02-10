@@ -1,3 +1,15 @@
+Residency @ studio eOle, Toulouse FR - 16.-22.10.22
+*w. Marta Forsberg, Passepartout Duo*
+https://www.studio-eole.com
+
+Concert @ KM28, Berlin DE - 08.04.22
+*w. Stellan Veloce, Elena Kakaliagou, Earl Harvin, Julia Reidy*
+https://stellanveloce.de
+
+Y-E-S issue release party @ Silent Green, Berlin DE - 19.03.22
+*w. POSITIONEN Magazin, Y-E-S Collective*
+https://positionen.berlin
+
 Concert @ KM28, Berlin DE - 26.01.22
 *w. Elizabeth Davis*
 https://www.km28.de
