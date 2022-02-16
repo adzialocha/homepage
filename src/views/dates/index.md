@@ -6,7 +6,7 @@ Concert @ KM28, Berlin DE - 08.04.22
 *w. Stellan Veloce, Elena Kakaliagou, Earl Harvin, Julia Reidy*
 https://stellanveloce.de
 
-Y-E-S issue release party @ Silent Green, Berlin DE - 19.03.22
+Y-E-S issue release party @ März Musik, Silent Green, Berlin DE - 22.03.22
 *w. POSITIONEN Magazin, Y-E-S Collective*
 https://positionen.berlin
 
