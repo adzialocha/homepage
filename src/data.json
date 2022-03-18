@@ -3,7 +3,7 @@
     "version": "3.0.0",
     "title": "adz.garden",
     "url": "https://adz.garden",
-    "year": 2020,
+    "year": 2022,
     "description": "Andreas Dzialocha is an electric bass player, producer, composer and developer. His work consists of both digital and physical environments, spaces, festivals, software or platforms for participants and listeners.",
     "image": {
       "src": "https://adz.garden/assets/images/flag.jpg",
@@ -23,6 +23,18 @@
     "description": "Hyperdelia HEX 005 12\" LP w. Sam Slater, Fågelle, Marta Forsberg."
   },
   "archive": [
+    {
+      "title": "Positionen",
+      "link": "/positionen",
+      "image": "/positionen/positionen.jpg",
+      "description": "Magazine takeover by the Y-E-S collective"
+    },
+    {
+      "title": "Complesso Spettro",
+      "link": "/complesso-spettro",
+      "image": "/complesso-spettro/complesso-spettro.jpg",
+      "description": "Record by Stellan Veloce"
+    },
     {
       "title": "p2panda",
       "link": "/p2panda",
