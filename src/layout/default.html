@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="{{ meta.charset }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta name="description" content="{{ meta.description }}">
+  <title>{{ meta.title }}{% if title %} ~ {{ title }}{% endif %}</title>
+  <meta property="og:title" content="{{ meta.title }}{% if title %} ~ {{ title }}{% endif %}">
+  <meta property="og:description" content="{{ meta.description }}">
+  <meta property="og:url" content="{{ meta.url }}{% if slug %}/{{ slug }}{% endif %}">
+  <meta property="og:image" content="{{ meta.image.src }}">
+  <meta property="og:image:type" content="{{ meta.image.type }}">
+  <meta property="og:image:width" content="{{ meta.image.width }}">
+  <meta property="og:image:height" content="{{ meta.image.height }}">
+  <link type="image/x-icon" rel="shortcut icon" href="{{ meta.favicon }}">
+  <link type="image/x-icon" rel="icon" href="{{ meta.favicon }}">
+  <link type="image/x-icon" rel="icon" href="{{ meta.favicon }}">
+  <link type="text/css" rel="stylesheet" href="{{ meta.styles }}?v={{ meta.version }}">
+</head>
+<body>
+  <header>
+    <h1 class="title{% if sidebar %} title--with-sidebar{% endif %}" id="toggle">{{ meta.title }}{% if title %} ~ {{ title }}{% endif %}</h1>
+
+    <div class="navigation" id="navigation">
+      <a class="navigation__link" href="/">Archive</a>
+      <a class="navigation__link" href="/dates">Dates</a>
+      <a class="navigation__link" href="/about">About</a>
+      <a class="navigation__link" href="/contact">Contact</a>
+    </div>
+
+    <div class="navigation-close" id="navigation-close"></div>
+  </header>
+
+  {% if title %}
+    <main class="main{% if sidebar %} main--with-sidebar{% endif %}">
+      {{ content | safe }}
+
+      {% if not isNewsletterHidden %}
+        <a href="http://eepurl.com/FAyrH" class="newsletter" target="_blank">
+          Subscribe to newsletter
+        </a>
+      {% endif %}
+    </main>
+
+    {% if sidebar %}
+      <aside class="sidebar">
+        <ul class="meta">
+          {% for item in sidebar %}
+            <a href="{{ item.link }}" target="_blank">
+              <li class="meta__item">
+                {{ item.title }}
+              </li>
+            </a>
+          {% endfor %}
+        </ul>
+      </aside>
+    {% endif %}
+  {% else %}
+    <svg class="garden" id="garden"></svg>
+
+    {% if featured %}
+      <aside class="featured">
+        <a class="featured__link" href="{{ featured.link }}">
+          <h2>{{ featured.title }}</h2>
+          {% if featured.image %}
+            <img alt="{{ featured.title }}" src="{{ featured.image }}" />
+          {% endif %}
+          <p>{{ featured.description }}</p>
+        </a>
+      </aside>
+    {% endif %}
+
+    <main class="main main--with-garden">
+      <ul class="archive">
+        {% for item in archive %}
+          <li class="archive__item">
+            <a class="archive__link" href="{{ item.link }}">
+              <section class="box{% if loop.index % 2 === 0 %} box--alternate{% endif %}{% if item.image %} box--with-image{% endif %}">
+                <div class="box__content">
+                  <h2>{{ item.title }}</h2>
+                  <p>{{ item.description }}</p>
+                </div>
+
+                {% if item.image %}
+                  <img class="box__image" alt="{{ item.title }}" src="{{ item.image }}" />
+                {% endif %}
+              </section>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </main>
+  {% endif %}
+
+  <script src="{{ meta.scripts }}?v={{ meta.version }}"></script>
+</body>
+</html>

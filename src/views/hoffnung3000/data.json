@@ -1,0 +1,21 @@
+{
+  "title": "HOFFNUNG 3000",
+  "sidebar": [
+    {
+      "title": "Homepage",
+      "link": "https://hoffnung3000.de"
+    },
+    {
+      "title": "Festival archive",
+      "link": "https://hoffnung3000.herokuapp.com"
+    },
+    {
+      "title": "BLATT 3000",
+      "link": "https://blatt3000.de"
+    },
+    {
+      "title": "Source Code",
+      "link": "https://github.com/adzialocha/hoffnung3000"
+    }
+  ]
+}

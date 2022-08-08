@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "version": "3.0.0",
+    "title": "adz.garden",
+    "url": "https://adz.garden",
+    "year": 2022,
+    "description": "Andreas Dzialocha is an electric bass player, producer, composer and developer. His work consists of both digital and physical environments, spaces, festivals, software or platforms for participants and listeners.",
+    "image": {
+      "src": "https://adz.garden/assets/images/flag.jpg",
+      "width": "1700",
+      "height": "1200",
+      "type": "image/jpeg"
+    },
+    "charset": "utf-8",
+    "favicon": "/assets/images/favicon.ico",
+    "scripts": "/assets/scripts/app.js",
+    "styles": "/assets/styles/app.css"
+  },
+  "featured": {
+    "title": "For Always LP",
+    "link": "/for-always-lp",
+    "image": "/for-always-lp/for-always-lp-cover.png",
+    "description": "Hyperdelia HEX 005 12\" LP w. Sam Slater, Fågelle, Marta Forsberg."
+  },
+  "archive": [
+    {
+      "title": "Positionen",
+      "link": "/positionen",
+      "image": "/positionen/positionen.jpg",
+      "description": "Magazine takeover by the Y-E-S collective"
+    },
+    {
+      "title": "Complesso Spettro",
+      "link": "/complesso-spettro",
+      "image": "/complesso-spettro/complesso-spettro.jpg",
+      "description": "Record by Stellan Veloce"
+    },
+    {
+      "title": "p2panda",
+      "link": "/p2panda",
+      "image": "/p2panda/p2panda-logo.png",
+      "description": "Peer-to-peer communications protocol for secure, energy-efficient, offline- and local-first web applications"
+    },
+    {
+      "title": "CultureStake",
+      "link": "/culturestake",
+      "image": "/culturestake/future-fairness.jpg",
+      "description": "Web-based voting system for decentralised cultural decision making"
+    },
+    {
+      "title": "Love Chaos Quarantine",
+      "link": "/love-chaos-quarantine",
+      "image": "/love-chaos-quarantine/lovechaosquarantine.jpg",
+      "description": "Adhoc online festival"
+    },
+    {
+      "title": "For Always LP",
+      "link": "/for-always-lp",
+      "image": "/for-always-lp/for-always-lp.jpg",
+      "description": "12\" LP, Hyperdelia, 2020 w. Sam Slater, Fågelle, Marta Forsberg"
+    },
+    {
+      "title": "Symbiotic Seeing",
+      "link": "/symbiotic-seeing",
+      "image": "/symbiotic-seeing/symbiotic-seeing.jpg",
+      "description": "Sound installation w. Hildur Guðnadóttir"
+    },
+    {
+      "title": "Liebe Chaos Verein",
+      "link": "/liebe-chaos-verein",
+      "image": "/liebe-chaos-verein/liebe-chaos-verein.png",
+      "description": "More campfires and boiling pots to sit around"
+    },
+    {
+      "title": "badbadnotbad.ai",
+      "link": "/badbadnotbad",
+      "image": "/badbadnotbad/badbadnotbad-palazzo.jpg",
+      "description": "AI UNIT gatherings on machine learning and its politics"
+    },
+    {
+      "title": "p2p Festival Tool",
+      "link": "/festival-tool",
+      "image": "/festival-tool/festival-authorization.jpg",
+      "description": "Tool for self-organized festivals"
+    },
+    {
+      "title": "Land der Musik LP",
+      "link": "/land-der-musik-lp",
+      "image": "/land-der-musik-lp/land-der-musik-lp-cover.jpg",
+      "description": "12\" LP, 2019 w. Christian von Borries"
+    },
+    {
+      "title": "tomomibot",
+      "link": "/tomomibot",
+      "image": "/tomomibot/tomomibot.png",
+      "description": "AI bot for live voice improvisation w. Tomomi Adachi"
+    },
+    {
+      "title": "Land der Musik - Ein Neujahrskonzert",
+      "link": "/land-der-musik",
+      "image": "/land-der-musik/land-der-musik-2.jpg",
+      "description": "Volksfronten orchestra performance with AI generated score"
+    },
+    {
+      "title": "Y-E-S Fest 2018",
+      "link": "/yes-fest",
+      "image": "/yes-fest/yes-fest-1.jpg",
+      "description": "Festival for experimental scores in Berlin"
+    },
+    {
+      "title": "AI UNIT",
+      "link": "/ai-unit",
+      "image": "/ai-unit/ai-unit-logo.png",
+      "description": "Music and machine learning collective"
+    },
+    {
+      "title": "AGAR AGAR 3000",
+      "link": "/agar-agar-3000",
+      "image": "/agar-agar-3000/agar-agar-3000-2.jpg",
+      "description": "BLATT 3000 lecture @ Socio Sonic, London"
+    },
+    {
+      "title": "A portrait of BLATT 3000",
+      "link": "/blatt3000-lake-radio",
+      "image": "/blatt3000-lake-radio/blatt3000-lake-radio.jpg",
+      "description": "for Lake Radio"
+    },
+    {
+      "title": "VERANTWORTUNG 3000",
+      "link": "/verantwortung3000",
+      "image": "/verantwortung3000/verantwortung3000-2.jpg",
+      "description": "Self-organized festival in Brandenburg, 2016"
+    },
+    {
+      "title": "Cybernetic Gamelan Future Automaton",
+      "link": "/cgfa",
+      "image": "/cgfa/cgfa-2.jpg",
+      "description": "Network-based browser / music game for laptop performers"
+    },
+    {
+      "title": "Y-E-S",
+      "link": "/yes",
+      "image": "/yes/yes.png",
+      "description": "Platform for intermedial scores"
+    },
+    {
+      "title": "HOFFNUNG 3000",
+      "link": "/hoffnung3000",
+      "image": "/hoffnung3000/hoffnung3000-1.jpg",
+      "description": "Self-curated decentralized festival platform"
+    },
+    {
+      "title": "Bild der Rettung | Rettungs des Bildes",
+      "link": "/bild-der-rettung",
+      "image": "/bild-der-rettung/bild-der-rettung-generated-1.png",
+      "description": "Automated GAN mass image production"
+    },
+    {
+      "title": "NOR",
+      "link": "/nor",
+      "image": "/nor/nor-2.jpg",
+      "description": "Improvised music in a highly artificial environment"
+    },
+    {
+      "title": "Segmente A",
+      "link": "/segmente-a",
+      "image": "/segmente-a/segmente-a-1.png",
+      "description": "Interactive sound installation / virtual 3D environment"
+    },
+    {
+      "title": "BLATT 3000",
+      "link": "/blatt3000",
+      "image": "/blatt3000/blatt3000-2.png",
+      "description": "Non-curated magazine"
+    },
+    {
+      "title": "Elfriede Jelinek - Wut",
+      "link": "/wut",
+      "image": "/wut/wut-1.jpg",
+      "description": "Theater performance with AI generated orchestra score"
+    },
+    {
+      "title": "Erster Teil - Zweiter Teil - Dritter Teil",
+      "link": "/erster-teil-zweiter-teil-dritter-teil",
+      "image": "/erster-teil-zweiter-teil-dritter-teil/szo-4.jpg",
+      "description": "12\" LP, Hyperdelia, 2017"
+    },
+    {
+      "title": "8bit",
+      "link": "/8bit",
+      "image": "/8bit/8bit.gif",
+      "description": "Notes on building a 8bit computer"
+    },
+    {
+      "title": "Love and Verantwortung",
+      "link": "/love-and-verantwortung",
+      "image": "/love-and-verantwortung/love-and-verantwortung-5.jpg",
+      "description": "BLATT 3000 lecture performance"
+    },
+    {
+      "title": "To All Frequencies I Can Not Sense",
+      "link": "/to-all-frequencies",
+      "image": "/to-all-frequencies/to-all-frequencies-2.jpg",
+      "description": "Serenus Zeitblom Oktett w. Marta Forsberg"
+    },
+    {
+      "title": "Hyperdelia",
+      "link": "/hyperdelia",
+      "image": "/hyperdelia/hyperdelia-logo.png",
+      "description": "Record label based in Berlin"
+    },
+    {
+      "title": "Echo",
+      "link": "/echo",
+      "image": "/echo/szo-echo-1.jpg",
+      "description": "Serenus Zeitblom Oktett w. Ingrid Laubrock"
+    },
+    {
+      "title": "Serenus Zeitblom Oktett",
+      "link": "/serenus-zeitblom-oktett",
+      "image": "/serenus-zeitblom-oktett/serenus-zeitblom-oktett-11.jpg",
+      "description": "Ensemble from Berlin"
+    },
+    {
+      "title": "Solo EP",
+      "link": "/solo-ep",
+      "image": "/solo-ep/solo-ep-3.jpg",
+      "description": "Cassette, Slip Imprint, 2015"
+    }
+  ]
+}

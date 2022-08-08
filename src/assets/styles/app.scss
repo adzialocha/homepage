@@ -1,0 +1,610 @@
+@import url('//hello.myfonts.net/count/3506b5');
+
+// ============================================
+// Variables
+// ============================================
+
+// Color definitions
+
+$black: #000;
+$gray: #eee;
+$white: #fff;
+
+$green: #0f0;
+$blue: #00f;
+$yellow: #ff0;
+
+// Font definitions
+
+$font-weight: 400;
+
+// Layout
+
+$spacing: 20px;
+$mobile-width: 930px;
+$background-color: $gray;
+
+// Layers
+
+$z-index: (
+  garden: -1,
+  sidebar: 100,
+  main-with-sidebar: 500,
+  title: 1000,
+  featured: 2000,
+  navigation-close: 4000,
+  navigation: 5000,
+);
+
+// ============================================
+// Reset
+// ============================================
+
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+img,
+strong,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+
+  border: 0;
+
+  font: inherit;
+  font-size: 100%;
+
+  vertical-align: baseline;
+}
+
+body {
+  line-height: 1;
+}
+
+ul {
+  list-style: none;
+}
+
+// ============================================
+// Fonts
+// ============================================
+
+@font-face {
+  font-family: 'BergenText-Regular';
+  src: url('../../assets/fonts/bergen-text.eot');
+  src: url('../../assets/fonts/bergen-text.eot?#iefix') format('embedded-opentype'),
+  url('../../assets/fonts/bergen-text.woff2') format('woff2'),
+  url('../../assets/fonts/bergen-text.woff') format('woff'),
+  url('../../assets/fonts/bergen-text.ttf') format('truetype'),
+  url('../../assets/fonts/bergen-text.svg#wf') format('svg');
+}
+
+// ============================================
+// Global
+// ============================================
+
+* {
+  &,
+  &:before,
+  &:after {
+    box-sizing: border-box;
+
+    text-rendering: optimizeLegibility;
+  }
+}
+
+::selection {
+  color: $white;
+  background-color: $black;
+
+  text-shadow: none;
+}
+
+html,
+body {
+  min-width: 300px;
+  height: 100%;
+
+  font-weight: $font-weight;
+  font-size: 50px;
+  font-family: 'BergenText-Regular', sans-serif;
+
+  line-height: 1.3;
+}
+
+// ============================================
+// Links
+// ============================================
+
+a {
+  color: $blue;
+
+  text-decoration: none;
+
+  cursor: pointer;
+
+  word-wrap: break-word;
+
+  &:hover {
+    color: $black;
+  }
+}
+
+// ============================================
+// Typography
+// ============================================
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $blue;
+
+  font-weight: $font-weight;
+
+  word-wrap: break-word;
+
+  &::before {
+    display: 'inline';
+
+    margin-right: 10px;
+
+    content: '◆';
+  }
+}
+
+strong {
+  border-bottom: 5px $black solid;
+
+  font-weight: $font-weight;
+}
+
+p {
+  word-wrap: break-word;
+}
+
+p + p {
+  margin-top: 50px;
+}
+
+// ============================================
+// Images
+// ============================================
+
+img {
+  display: block;
+
+  width: 100%;
+
+  margin: 0 auto;
+  padding: $spacing;
+  padding-top: $spacing * 3;
+  padding-bottom: $spacing * 3;
+}
+
+// ============================================
+// Components
+// ============================================
+
+.main {
+  min-height: 100%;
+
+  padding: $spacing;
+  padding-top: 200px;
+
+  background-color: $background-color;
+
+  img {
+    max-width: 500px;
+  }
+
+  li {
+    margin-top: $spacing;
+    margin-bottom: $spacing;
+
+    &:before {
+      display: 'inline';
+
+      margin-right: 10px;
+
+      content: '◆';
+    }
+  }
+}
+
+.main--with-sidebar {
+  position: absolute;
+
+  z-index: map-get($z-index, 'main-with-sidebar');
+
+  width: 50%;
+
+  img {
+    position: relative;
+
+    left: 50%;
+  }
+}
+
+.main--with-garden {
+  position: relative;
+
+  top: 100%;
+
+  width: 100%;
+
+  padding: 0;
+}
+
+@media (max-width: $mobile-width) {
+  .main {
+    position: static;
+
+    width: 100%;
+
+    img {
+      position: static;
+    }
+  }
+}
+
+.garden {
+  position: absolute;
+
+  top: 0;
+  right: 0;
+  left: 0;
+
+  z-index: map-get($z-index, 'garden');
+
+  display: block;
+
+  width: 100%;
+  height: 100%;
+
+  background-color: $background-color;
+
+  font-family: Arial, sans-serif;
+
+  pointer-events: none;
+  user-select: none;
+
+  fill: $blue;
+
+  text {
+    font-size: 200px;
+  }
+}
+
+@media (max-width: $mobile-width) {
+  .garden {
+    position: static;
+  }
+}
+
+.title {
+  position: absolute;
+
+  top: 0;
+  left: 0;
+
+  z-index: map-get($z-index, 'title');
+
+  width: 100%;
+
+  padding: $spacing;
+
+  cursor: pointer;
+
+  user-select: none;
+
+  &:hover {
+    color: $black;
+  }
+}
+
+.title--with-sidebar {
+  width: 50%;
+}
+
+@media (max-width: $mobile-width) {
+  .title--with-sidebar {
+    width: 100%;
+  }
+}
+
+.navigation {
+  position: fixed;
+
+  top: 0;
+  left: 0;
+
+  z-index: map-get($z-index, 'navigation');
+
+  display: flex;
+
+  padding: $spacing;
+
+  background-color: $yellow;
+
+  transform: translate3d(-100%, 0, 0) rotate(-45deg);
+
+  transition: transform ease .3s;
+
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  mix-blend-mode: difference;
+
+  cursor: pointer;
+}
+
+.navigation--active {
+  transform: translate3d(0, 0, 0) rotate(-45deg);
+}
+
+.navigation__link {
+  color: $black;
+
+  &:hover {
+    color: $blue;
+  }
+}
+
+.navigation-close {
+  position: fixed;
+
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  z-index: map-get($z-index, 'navigation-close');
+
+  display: none;
+
+  user-select: none;
+}
+
+.navigation-close--active {
+  display: block;
+
+  cursor: pointer;
+}
+
+.featured {
+  position: absolute;
+
+  top: 0;
+  right: 0;
+
+  z-index: map-get($z-index, 'featured');
+
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  width: 50%;
+  height: 100%;
+
+  background-color: $yellow;
+
+  img {
+    max-width: 300px;
+
+    padding: $spacing;
+
+    object-fit: contain;
+  }
+
+  &:hover {
+    background-color: $black;
+
+    a {
+      color: $blue;
+    }
+  }
+}
+
+@media (max-width: $mobile-width) {
+  .featured {
+    position: static;
+
+    width: 100%;
+    height: auto;
+
+    img {
+      max-width: 500px;
+    }
+  }
+}
+
+.featured__link {
+  display: flex;
+
+  height: 100%;
+
+  padding: $spacing;
+
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.archive {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  li {
+    margin: 0;
+
+    &:before {
+      display: none;
+    }
+  }
+}
+
+.archive__item {
+  position: relative;
+
+  width: 50%;
+  min-height: 350px;
+
+  background-color: $blue;
+
+  &:hover {
+    background-color: $black;
+  }
+
+  // &:last-child {
+  //   width: 100%;
+  // }
+}
+
+.archive__link {
+  display: block;
+
+  height: 100%;
+
+  cursor: pointer;
+}
+
+@media (max-width: $mobile-width) {
+  .archive__item {
+    width: 100%;
+  }
+
+  .archive__link {
+    position: static;
+  }
+}
+
+.box {
+  display: flex;
+
+  height: 100%;
+
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.box__content {
+  padding: $spacing;
+
+  color: $white;
+
+  h2 {
+    margin-bottom: $spacing;
+
+    color: $white;
+  }
+}
+
+.box__image {
+  width: 250px;
+
+  margin: 0;
+  margin-left: auto;
+  padding: 0;
+}
+
+@media (max-width: $mobile-width) {
+  .box--with-image {
+    &.box--alternate {
+      .box__image {
+        margin-right: auto;
+        margin-left: 0;
+      }
+    }
+  }
+}
+
+.sidebar {
+  position: fixed;
+
+  top: 0;
+  right: 0;
+
+  z-index: map-get($z-index, 'sidebar');
+
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  width: 50%;
+  height: 100%;
+
+  padding: $spacing;
+  padding-top: 0;
+
+  background-color: $black;
+
+  img {
+    max-width: 250px;
+  }
+}
+
+@media (max-width: $mobile-width) {
+  .sidebar {
+    position: static;
+
+    width: 100%;
+    height: auto;
+  }
+}
+
+.meta__item {
+  position: relative;
+
+  overflow: hidden;
+
+  margin-top: $spacing;
+  padding: $spacing;
+  padding-top: 10px;
+  padding-bottom: 8px;
+
+  border: 3px $white dashed;
+
+  white-space: nowrap;
+
+  color: $white;
+
+  text-overflow: ellipsis;
+
+  &:hover {
+    border: 3px $yellow dashed;
+
+    color: $yellow;
+  }
+}
+
+.newsletter {
+  display: block;
+
+  max-width: 600px;
+
+  margin-top: $spacing * 3;
+  padding: $spacing;
+  padding-bottom: 15px;
+
+  border: 3px $black dashed;
+
+  color: $black;
+
+  &:hover {
+    border-color: $blue;
+
+    color: $blue;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "p2panda",
+  "sidebar": [
+    {
+      "title": "Website",
+      "link": "https://p2panda.org"
+    },
+    {
+      "title": "Handbook",
+      "link": "https://github.com/p2panda/handbook"
+    }
+  ]
+}

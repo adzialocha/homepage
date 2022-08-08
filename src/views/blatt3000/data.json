@@ -1,0 +1,17 @@
+{
+  "title": "BLATT 3000",
+  "sidebar": [
+    {
+      "title": "Homepage",
+      "link": "https://blatt3000.de"
+    },
+    {
+      "title": "Portrait Audio",
+      "link": "https://soundcloud.com/thelakeradio/a-portrait-of-blatt-3000"
+    },
+    {
+      "title": "GitHub",
+      "link": "https://github.com/blatt3000"
+    }
+  ]
+}

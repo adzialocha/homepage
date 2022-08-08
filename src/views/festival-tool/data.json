@@ -1,0 +1,21 @@
+{
+  "title": "p2p Festival Tool",
+  "sidebar": [
+    {
+      "title": "Design document",
+      "link": "https://github.com/p2panda/festival-tool"
+    },
+    {
+      "title": "p2panda Protocol",
+      "link": "https://github.com/p2panda/handbook"
+    },
+    {
+      "title": "Talk @ C36C3",
+      "link": "https://www.youtube.com/watch?v=qyWJP9277nk"
+    },
+    {
+      "title": "Talk @ our:networks",
+      "link": "https://www.youtube.com/watch?v=Teu0xkQ7FvU"
+    }
+  ]
+}
