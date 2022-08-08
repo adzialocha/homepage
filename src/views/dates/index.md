@@ -1,9 +1,20 @@
+Seminar "Arbeit mit Klang und künstlicher Intelligenz" @ Universität der Künste, Berlin DE - SS 2023
+*w. Genoël von Lilienstern*
+https://www.udk-berlin.de/universitaet/vorlesungsverzeichnis-und-vorlesungszeiten/
+
 Residency @ studio eOle, Toulouse FR - 16.-22.10.22
 *w. Marta Forsberg, Passepartout Duo*
 https://www.studio-eole.com
 
+Concert @ Ausland, Berlin DE - 13.10.22
+*w. Stellan Veloce, Elena Kakaliagou, Carlo Spiga, Julia Reidy*
+https://ausland-berlin.de
+
+Panel AI, TECH, POWER, FUTURE @ NEXT Festival, Bratislava SK - 30.09.22
+https://nextfestival.sk/
+
 Concert @ KM28, Berlin DE - 08.04.22
-*w. Stellan Veloce, Elena Kakaliagou, Earl Harvin, Julia Reidy*
+*w. Stellan Veloce, Elena Kakaliagou, Carlo Spiga, Earl Harvin, Julia Reidy*
 https://stellanveloce.de
 
 Y-E-S issue release party @ März Musik, Silent Green, Berlin DE - 22.03.22
