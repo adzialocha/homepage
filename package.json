@@ -21,10 +21,10 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/adzialocha/homepage#readme",
   "devDependencies": {
-    "eslint": "^8.3.0",
+    "eslint": "^8.21.0",
     "rimraf": "^3.0.2",
     "sass-lint": "^1.13.1",
-    "serve": "^13.0.2",
+    "serve": "^14.0.1",
     "static-generator": "^0.2.11",
     "watch": "^1.0.2"
   },
