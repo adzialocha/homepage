@@ -7,7 +7,7 @@ This is the home of [adz.garden](https://adz.garden), built with [static-generat
 Run the following commands to bootstrap the development environment:
 
 ```
-git clone git@github.com:adzialocha/homepage
+git clone git@codeberg.org:adz/homepage
 cd homepage
 npm install
 ```
