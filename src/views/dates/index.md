@@ -13,6 +13,9 @@ https://ausland-berlin.de
 Panel AI, TECH, POWER, FUTURE @ NEXT Festival, Bratislava SK - 30.09.22
 https://nextfestival.sk/
 
+Solo @ Y-E-S Fest 22, Heizhaus, Berlin DE - 11.09.22
+https://2022.y-e-s.org
+
 Concert @ KM28, Berlin DE - 08.04.22
 *w. Stellan Veloce, Elena Kakaliagou, Carlo Spiga, Earl Harvin, Julia Reidy*
 https://stellanveloce.de
