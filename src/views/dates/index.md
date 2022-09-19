@@ -11,10 +11,15 @@ Concert @ Ausland, Berlin DE - 13.10.22
 https://ausland-berlin.de
 
 Panel AI, TECH, POWER, FUTURE @ NEXT Festival, Bratislava SK - 30.09.22
+*w. Mary C, Moisés Horta Valenzuela, Parl Kristian Bjørn Vester*
 https://nextfestival.sk/
 
-Solo @ Y-E-S Fest 22, Heizhaus, Berlin DE - 11.09.22
+Solo @ Y-E-S Fest 22, Heizhaus / Uferstudios, Berlin DE - 11.09.22
 https://2022.y-e-s.org
+
+KISSA series w. Hyperdelia @ Ana Conda / Uferstudios, Berlin DE - 08.09.22
+*w. Black Truffle, Hyperdelia, L_KW*
+https://www.field-notes.berlin/en/festivals/89082/monat-der-zeitgenssischen-musik/116235/kissa/
 
 Concert @ KM28, Berlin DE - 08.04.22
 *w. Stellan Veloce, Elena Kakaliagou, Carlo Spiga, Earl Harvin, Julia Reidy*
