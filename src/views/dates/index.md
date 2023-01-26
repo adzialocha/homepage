@@ -1,6 +1,10 @@
-Seminar "Arbeit mit Klang und künstlicher Intelligenz" @ Universität der Künste, Berlin DE - SS 2023
+Seminar "Arbeit mit Klang und künstlicher Intelligenz" @ Universität der Künste, Berlin DE - SS 2023 03.-05.04.23
 *w. Genoël von Lilienstern*
 https://www.udk-berlin.de/universitaet/vorlesungsverzeichnis-und-vorlesungszeiten/
+
+Concert @ Ausland, Berlin DE - 11.02.23
+*w. support for Fågelle (record release)*
+https://ausland-berlin.de
 
 Residency @ studio eOle, Toulouse FR - 16.-22.10.22
 *w. Marta Forsberg, Passepartout Duo*
