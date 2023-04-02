@@ -1,6 +1,14 @@
-Seminar "Arbeit mit Klang und künstlicher Intelligenz" @ Universität der Künste, Berlin DE - SS 2023 03.-05.04.23
+wir zaudern, wir brennen @ poesiefestival, Berlin DE - 09.-16.06.23
+*Theater-Installation w. Roman Hagenbrock, Tim Holland, Sebastian Köthe, Hsiangfu Chen, Hsuan Huang*
+https://poesiefestival.org
+
+Concert @ KM28, Berlin DE - 21.04.23
+*Power Loom Series w. Marc Matter*
+https://www.km28.de
+
+Workshop "Working with Sound & AI" @ Universität der Künste, Berlin DE - 03.-05.04.23
 *w. Genoël von Lilienstern*
-https://www.udk-berlin.de/universitaet/vorlesungsverzeichnis-und-vorlesungszeiten/
+https://www.udk-berlin.de/universitaet/online-lehre-an-der-universitaet-der-kuenste-berlin/inkuele/workshop-hzt-2/
 
 Concert @ Ausland, Berlin DE - 11.02.23
 *w. support for Fågelle (record release)*
