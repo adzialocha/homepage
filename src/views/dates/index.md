@@ -1,4 +1,17 @@
-wir zaudern, wir brennen @ poesiefestival, Berlin DE - 09.-16.06.23
+Concert @ Ver.di Saal, Berlin DE - 30.10.23
+*w. Tim Holland (Literaturpreisverleihung)*
+
+Concert @ Heizhaus, Uferstudios, Berlin DE - 30.09.23
+*w. Kaj Duncan David, Laurie M. Hiendl, Stellan Veloce, Neo Hülcker*
+https://www.uferstudios.com/
+
+Concert @ Moos, Berlin DE - 13.09.23
+https://www.moos.space/
+
+p4p unconference @ offline, Berlin DE - 28.07.-30.07.23
+https://p4p.space/
+
+wir zaudern, wir brennen @ poesiefestival, Akademie der Künste, Berlin DE - 09.-16.06.23
 *Theater-Installation w. Roman Hagenbrock, Tim Holland, Sebastian Köthe, Hsiangfu Chen, Hsuan Huang*
 https://poesiefestival.org
 
