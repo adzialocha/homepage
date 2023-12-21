@@ -1,3 +1,11 @@
+Sun Kit @ Roter Salon, Volksbühne, Berlin DE - 04.04.24
+*Band LP release concert w. Jules Reidy*
+https://www.volksbuehne.berlin
+
+dreijahreszeiten @ Leibniz-Zentrum für Literatur- und Kulturforschung, Berlin DE - 29.11.-01.12.23
+*Theater-Installation w. Roman Hagenbrock, Tim Holland, Sebastian Köthe, Hsiangfu Chen, Hsuan Huang*
+https://www.zfl-berlin.org
+
 Concert @ Ver.di Saal, Berlin DE - 30.10.23
 *w. Tim Holland (Literaturpreisverleihung)*
 
@@ -11,7 +19,7 @@ https://www.moos.space/
 p4p unconference @ offline, Berlin DE - 28.07.-30.07.23
 https://p4p.space/
 
-wir zaudern, wir brennen @ poesiefestival, Akademie der Künste, Berlin DE - 09.-16.06.23
+dreijahreszeiten @ poesiefestival, Akademie der Künste, Berlin DE - 09.-16.06.23
 *Theater-Installation w. Roman Hagenbrock, Tim Holland, Sebastian Köthe, Hsiangfu Chen, Hsuan Huang*
 https://poesiefestival.org
 
