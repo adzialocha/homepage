@@ -1,3 +1,6 @@
+Sun Kit @ Rewire Festival, Den Haag, NL - 05.-07.04.24
+https://www.rewirefestival.nl
+
 Sun Kit @ Roter Salon, Volksbühne, Berlin DE - 04.04.24
 *Band LP release concert w. Jules Reidy*
 https://www.volksbuehne.berlin
