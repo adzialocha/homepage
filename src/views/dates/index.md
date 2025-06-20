@@ -1,3 +1,9 @@
+DWeb Seminar @ Internet Archive, San Francisco, US - 13.-17.08.25
+https://dwebseminar.org
+
+p4p unconference @ offline, Berlin DE - 24.-26.05.24
+https://offline.place
+
 Sun Kit @ Rewire Festival, Den Haag, NL - 05.-07.04.24
 https://www.rewirefestival.nl
 
