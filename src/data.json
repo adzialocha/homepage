@@ -3,8 +3,8 @@
     "version": "3.0.0",
     "title": "adz.garden",
     "url": "https://adz.garden",
-    "year": 2022,
-    "description": "Andreas Dzialocha is an electric bass player, producer, composer and developer. His work consists of both digital and physical environments, spaces, festivals, software or platforms for participants and listeners.",
+    "year": 2025,
+    "description": "Andreas Dzialocha is an electric bass player, producer, composer and software developer",
     "image": {
       "src": "https://adz.garden/assets/images/flag.jpg",
       "width": "1700",
@@ -24,6 +24,84 @@
   },
   "archive": [
     {
+      "title": "DWeb Seminar",
+      "link": "/dwebseminar",
+      "image": "/dwebseminar/dwebseminar.png",
+      "description": "Peer-to-peer seminar at Internet Archive"
+    },
+    {
+      "title": "Archaeology of Intimacy",
+      "link": "/archaeologyofintimacy",
+      "image": "/archaeologyofintimacy/archaeologyofintimacy.jpg",
+      "description": "Record by Marta Forsberg"
+    },
+    {
+      "title": "Radical Networks Seminar",
+      "link": "/radicalnetworks",
+      "image": "/radicalnetworks/radicalnetworks.jpg",
+      "description": "p2p workshop w. Sarah Grant at NYU Berlin"
+    },
+    {
+      "title": "Ghost/Spirit",
+      "link": "/ghostspirit",
+      "image": "/ghostspirit/ghostspirit.jpg",
+      "description": "Record by Jules Reidy"
+    },
+    {
+      "title": "Toolkitty",
+      "link": "/toolkitty",
+      "image": "/toolkitty/toolkitty.png",
+      "description": "Coordination app for collectives, organisers and venues"
+    },
+    {
+      "title": "Reflection",
+      "link": "/reflection",
+      "image": "/reflection/reflection-4.png",
+      "description": "Secure and collaborative p2p text editor"
+    },
+    {
+      "title": "Sun Kit",
+      "link": "/sunkit",
+      "image": "/sunkit/sunkit-1.jpg",
+      "description": "Band with Andreas Dzialocha and Jules Reidy"
+    },
+    {
+      "title": "Sound and AI",
+      "link": "/soundandai",
+      "image": "/soundandai/soundandai.jpg",
+      "description": "UdK workshop w. Genoël Lilienstern"
+    },
+    {
+      "title": "Graffiti",
+      "link": "/graffiti",
+      "image": "/graffiti/graffiti-1.png",
+      "description": "Browser extension turning websites into public space"
+    },
+    {
+      "title": "offline",
+      "link": "/offline",
+      "image": "/offline/offline-1.jpg",
+      "description": "Community space in Berlin"
+    },
+    {
+      "title": "p4p",
+      "link": "/p4p",
+      "image": "/p4p/p4p.jpg",
+      "description": "Unconference for all sorts local-first and p2p protocols"
+    },
+    {
+      "title": "Die drei Jahreszeiten",
+      "link": "/dreijahreszeiten",
+      "image": "/dreijahreszeiten/dreijahreszeiten-1.jpg",
+      "description": "Kinetic poetry, sound and video installation"
+    },
+    {
+      "title": "Tiny Chronicler",
+      "link": "/tinychronicler",
+      "image": "/tinychronicler/tinychronicler-1.jpg",
+      "description": "Travelling music robot"
+    },
+    {
       "title": "Positionen",
       "link": "/positionen",
       "image": "/positionen/positionen.jpg",
@@ -39,7 +117,7 @@
       "title": "p2panda",
       "link": "/p2panda",
       "image": "/p2panda/p2panda-logo.png",
-      "description": "Peer-to-peer communications protocol for secure, energy-efficient, offline- and local-first web applications"
+      "description": "Building blocks for peer-to-peer applications"
     },
     {
       "title": "CultureStake",

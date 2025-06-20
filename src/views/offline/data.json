@@ -1,0 +1,25 @@
+{
+  "title": "offline",
+  "sidebar": [
+    {
+      "title": "Homepage",
+      "link": "https://offline.place"
+    },
+    {
+      "title": "Calendar",
+      "link": "https://pads.offline.place/p/r.3a4980005d7bdad09641f4335953f06c"
+    },
+    {
+      "title": "Fediverse",
+      "link": "https://autonomous.zone/@offline"
+    },
+    {
+      "title": "Telegram",
+      "link": "https://t.me/offlineberlin"
+    },
+    {
+      "title": "Codeberg",
+      "link": "https://codeberg.org/offline"
+    }
+  ]
+}

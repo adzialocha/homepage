@@ -1,0 +1,29 @@
+{
+  "title": "Die drei Jahreszeiten",
+  "sidebar": [
+    {
+      "title": "Tim Holland",
+      "link": "https://de.wikipedia.org/wiki/Tim_Holland_(Lyriker)"
+    },
+    {
+      "title": "Roman Hagenbrock",
+      "link": "https://www.romanhagenbrock.de/footage/die-drei-jahreszeiten"
+    },
+    {
+      "title": "Hsuan Huang  · 黃 玄",
+      "link": "https://hsuanhuang.com/die-drei-jahreszeiten/"
+    },
+    {
+      "title": "Audio-only",
+      "link": "https://soundcloud.com/andreasdzialocha/sets/die-drei-jahreszeiten/s-7ucpR9plNui?si=f8ac9ec853394001b6ab0b0d9a54a739"
+    },
+    {
+      "title": "Setup & Script on GitHub",
+      "link": "https://github.com/adzialocha/dreijahreszeiten"
+    },
+    {
+      "title": "ePaper video player on GitHub",
+      "link": "https://github.com/adzialocha/it8951-video"
+    }
+  ]
+}

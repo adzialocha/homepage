@@ -1,0 +1,13 @@
+{
+  "title": "Toolkitty",
+  "sidebar": [
+    {
+      "title": "Homepage",
+      "link": "https://toolkitty.org"
+    },
+    {
+      "title": "GitHub",
+      "link": "https://github.com/toolkitties/toolkitty"
+    }
+  ]
+}

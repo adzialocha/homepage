@@ -1,0 +1,17 @@
+{
+  "title": "DWeb Seminar",
+  "sidebar": [
+    {
+      "title": "Homepage",
+      "link": "https://dwebseminar.org"
+    },
+    {
+      "title": "DWeb",
+      "link": "https://getdweb.net"
+    },
+    {
+      "title": "Internet Archive",
+      "link": "https://archive.org"
+    }
+  ]
+}

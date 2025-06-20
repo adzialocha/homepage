@@ -6,8 +6,12 @@
       "link": "https://p2panda.org"
     },
     {
-      "title": "Handbook",
-      "link": "https://github.com/p2panda/handbook"
+      "title": "GitHub",
+      "link": "https://github.com/p2panda"
+    },
+    {
+      "title": "Fediverse",
+      "link": "https://autonomous.zone/@p2panda"
     }
   ]
 }

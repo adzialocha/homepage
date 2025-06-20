@@ -1,6 +1,16 @@
-p2panda is a user-friendly peer-to-peer communications protocol for secure, energy-efficient, offline- and local-first web applications. We want this protocol to be a playful tool for people to hack, build, play, and experiment with.
+p2panda aims to provide everything you need to build modern, privacy-respecting and secure local-first applications.
 
-Messages in p2panda are signed, encrypted and published by clients using the Bamboo append-only log data type which gets distributed over the network to other peers. p2panda allows for decentralised and federated network topologies or even hybrids of these and aims at running in web browsers without loosing its cryptographic features.
+We have adopted a modular approach—allowing projects the freedom to pick what they need and integrate it with minimal friction. We believe this approach contributes the most to a wider, interoperable p2p ecosystem which outlives “framework lock-in”.
+
+Many of our Rust crates operate over raw bytes and are fully compatible with your own data types and any CRDT. In case you don't plan on building your own peer-to-peer protocol, we have you covered with all features required to build a mobile or desktop application.
+
+We're using existing libraries like iroh and well-established standards such as BLAKE3, Ed25519, STUN, CBOR, TLS, QUIC, Double Ratchet and more - as long as they give us the radical offline-first guarantee we need.
+
+We want collaboration, encryption and access-control to work even when operating over unstable or ephemeral connections. Towards this end, we're actively working alongside researchers to design and implement resilient solutions.
+
+p2panda is "broadcast-only" at it’s heart, making any data not only offline-first but also compatible with post-internet communication infrastructure, such as shortwave, packet radio, Bluetooth Low Energy, LoRa or simply a USB stick.
+
+p2panda is a very multifaceted project: We maintain our crates, apply for grants, design protocols and do research in radically distributed data-types. We organise community events and write peer-to-peer applications with our friends and collaborators.
 
 **Background**
 
@@ -12,4 +22,4 @@ This led to a group of people interested in realising a protocol for p2p communi
 
 **Funding**
 
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme within the framework of the NGI-POINTER Project funded under grant agreement No 871528.
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme within the framework of the NGI-POINTER Project funded under grant agreement No 871528, NGI-ASSURE No 957073 and NGI0-ENTRUST No 101069594.
