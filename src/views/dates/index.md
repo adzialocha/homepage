@@ -1,6 +1,6 @@
 Sun Kit @ Silent Green, Berlin DE - 29.04.26
 *w. Ex-Easter Island Head*
-https://www.silent-green.net/programm/detail/ex-easter-island-head?tx_news_pi1%5Bday%5D=29&tx_news_pi1%5Bmonth%5D=4&tx_news_pi1%5Byear%5D=2026&cHash=19ab8fc5c116bfae9446449e674eefe5
+https://www.silent-green.net/programm/detail/ex-easter-island-head
 
 p2p lecture series - Access Control, Key Agreement Protocols and Encryption + Closing @ offline, Berlin DE - 10.12.25
 https://pads.offline.place/p/r.06dda241c03ad92f2a55c47f4bbdd419
