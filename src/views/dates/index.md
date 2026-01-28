@@ -2,6 +2,10 @@ Sun Kit @ Silent Green, Berlin DE - 29.04.26
 *w. Ex-Easter Island Head*
 https://www.silent-green.net/programm/detail/ex-easter-island-head
 
+Sun Kit @ Muziekgebouw, Amsterdam NL - 28.04.26
+*w. Ex-Easter Island Head*
+https://www.muziekgebouw.nl/nl/agenda/ex-easter-island-head-9383
+
 p2p lecture series - Access Control, Key Agreement Protocols and Encryption + Closing @ offline, Berlin DE - 10.12.25
 https://pads.offline.place/p/r.06dda241c03ad92f2a55c47f4bbdd419
 
